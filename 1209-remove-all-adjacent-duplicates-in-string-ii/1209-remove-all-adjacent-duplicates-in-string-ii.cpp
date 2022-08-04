@@ -59,22 +59,44 @@ public:
 // Thus, we use a stack to remember what we had previously, so we don't have to re-iterate from begin and recheck again and again.
 // The implementation of above approach is given below -
         
-        stack<pair<char,int>>st;
+//         stack<pair<char,int>>st;
         
-        st.push({'#',0});
+//         st.push({'#',0});
         
-        for(int i=0;i<s.length();i++){
-            st.push({s[i],st.top().first==s[i]?st.top().second+1:1});
+//         for(int i=0;i<s.length();i++){
+//             st.push({s[i],st.top().first==s[i]?st.top().second+1:1});
             
-            if(st.top().second==k){
-                while(st.top().first==s[i]) st.pop();
-                s.erase(i-k+1,k);
-                i-=k;
+//             if(st.top().second==k){
+//                 while(st.top().first==s[i]) st.pop();
+//                 s.erase(i-k+1,k);
+//                 i-=k;
+//             }
+            
+//         }
+            
+//         return s;
+     
+        stack<pair<char,int>> master;
+        
+        for(int i =0;i<s.length();i++){
+            if(!master.empty() && master.top().first==s[i]){
+                master.top().second++;
             }
-            
+            else master.push({s[i],1});
+            if(master.top().second==k){
+                master.pop();
+            }
         }
-            
-        return s;
-       
+        string ans;
+        while(!master.empty()){
+            int top=master.top().second;
+            while(top--){
+                ans.push_back(master.top().first);
+            }
+            master.pop();
+        }
+        reverse(ans.begin(),ans.end());
+        return ans;
+        
     }
 };
