@@ -17,10 +17,7 @@ public:
             return 0;
         }
         
-        // TreeNode* invert=new TreeNode();
-        // invert=root->left;
-        // root->left=root->right;
-        // root->right=invert;
+        // kuch dimag ni lgana bs aise soch mai phla kr rha hu invert tum mujhe baaki krke dedo simple
         
         invertTree(root->left);
         invertTree(root->right);
