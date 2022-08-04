@@ -18,14 +18,14 @@ public:
             return 0;
         }
         
-        rangeSumBST(root->left,low,high);
-        rangeSumBST(root->right,low,high);
+        
         if(root->val>=low && root->val<=high)
             sum=sum+root->val;
         
    // iss line ko if se upr neeche kbhi bhi lga skte h
         // rangeSumBST(root->left,low,high); iss vali ko
-       
+       rangeSumBST(root->left,low,high);
+        rangeSumBST(root->right,low,high);
         
         return sum;
         
