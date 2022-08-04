@@ -41,7 +41,7 @@ public:
 //         reverse(ans.begin(),ans.end());
 //         return ans;
         
-//         ✔️ Solution - II (Using Stack)
+//         ✔️ Solution - II (Using Stack) (ye bekr approach h  can skip to next)
 
 // We can observe that in the above appraoch, we re-iterating the string and rechecking for adjacent duplicates multiple times. This approach can be better understood with an example -
 
@@ -76,6 +76,13 @@ public:
             
 //         return s;
      
+        // best approach
+        //https://assets.leetcode.com/users/images/ae0e8a46-5cb2-48f5-abac-cb6667ab0740_1651809424.86439.gif
+        // using one stack and less run time than prv
+        //Time Complexity :- O(N)
+
+        //Space Complexity :- O(N)
+        
         stack<pair<char,int>> master;
         
         for(int i =0;i<s.length();i++){
