@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    // bool check=true;
+    
     bool help(TreeNode* p,TreeNode* q){
         
         if(p==NULL && q==NULL) return true;
@@ -23,9 +23,10 @@ public:
             return false;
             
         }
+        // iss line ko smjhna h
         return help(p->left,q->left)&&help(p->right,q->right);
          
-        //return check;
+       
     }
     
     bool isSameTree(TreeNode* p, TreeNode* q) {
