@@ -40,6 +40,9 @@ public:
 //         return help(root1,root2);
         
 //     }
+    
+    // https://leetcode.com/problems/merge-two-binary-trees/discuss/588123/~100.00-fast-in-run-time-and-memory-RecursiveIterativeBFSDFS
+    
     TreeNode* mergeTrees(TreeNode* t1,TreeNode *t2){
         if(t1 && t2){
             TreeNode* root=new TreeNode(t1->val+t2->val);
