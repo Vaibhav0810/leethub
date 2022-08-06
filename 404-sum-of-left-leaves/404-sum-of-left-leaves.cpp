@@ -17,22 +17,14 @@ public:
             return 0;
         }
          
-         
-        
         
         if(root->left && root->left->right==NULL && !root->left->left)
             sum=sum+root->left->val;
         
-//         else if(root->right->right==NULL && root->right->left==NULL)
-//             return sumOfLeftLeaves(root->left);
-        
         sumOfLeftLeaves(root->left);
         sumOfLeftLeaves(root->right);
         
-        
-       // sumOfLeftLeaves(root->left);
-       
-        
+      
         return sum;
         
     }
