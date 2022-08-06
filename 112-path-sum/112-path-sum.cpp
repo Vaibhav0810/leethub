@@ -47,6 +47,7 @@ public:
             if(root==NULL){
                 return 0;
             }
+            // ye iislie check kr rhe h null bcoz leaf node tk ka path chahie ho ske beech mei pura hojaye to vo correct ni h
             if(root->val==sum && root->left==NULL && root->right==NULL) return true;
             
             return hasPathSum(root->left,sum-root->val)|| hasPathSum(root->right,sum-root->val);
