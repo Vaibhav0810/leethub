@@ -11,27 +11,29 @@
  */
 class Solution {
 public:
-   
     bool ans;
-    
     int help(TreeNode* root){
-         if(!root) return 0;
-        if(!ans) return 0;
-       
-        int heightL=help(root->left);
-        int heightR=help(root->right);
         
-      
-        if(abs(heightL-heightR)>1) ans=false;
-         
-        return 1+max(heightL,heightR);
+        if(!root) return 0; //iska mtlb h if root==NULL 
+        
+        if(ans==false) return 0; 
+        
+        int lH=help(root->left);
+        int rh=help(root->right);
+        
+        if(abs(lH-rh)>1){
+            ans=false;
+        }
+        
+        return 1+max(lH,rh);
+        
     }
     
     bool isBalanced(TreeNode* root) {
         ans=true;
-        
-       int temp=help(root);
+        help(root);
         return ans;
+        
         
     }
 };
