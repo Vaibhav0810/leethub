@@ -21,7 +21,7 @@ public:
         int lH=help(root->left);
         int rh=help(root->right);
         
-        if(abs(lH-rh)>1){
+        if(abs(lH-rh)>1){ // abs krna zroori hbcoz agr right bda hua to firr true dikha dega ye
             ans=false;
         }
         
