@@ -14,7 +14,14 @@
     2. agr return krte hue root ke left right se null ni aa rha dono se to vo root hi ans h
     3. agr kisi bhi ik jgh se null aa rha h to uska opposite return krdo
     like agr left se null aarha h to right return aise
+    (bcoz jb upr aarhe the vps return krke to ik left aarha h pass aur ik right soagr koi bhi null h to uska opposite chahie hme)
+    aur agr koi bhi null ni h to vohi root ans h
+    
 */
+
+    // TIME -O(N) SPACE-O(N)(WORST CASE(which happen in case of skew trees))
+    // skew trees mtlb jinke sare node ik hi side ik hi line mei hote h
+// A skewed binary tree is a type of binary tree in which all the nodes have only either one child or no child.
 
 class Solution {
 public:
