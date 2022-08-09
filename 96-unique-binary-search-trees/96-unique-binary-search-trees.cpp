@@ -55,6 +55,9 @@ public:
 //         return half/prod;
 //     }
     
+    // isme hmm sath sath divide kr rhe h jiss se prod chota rhe aur limit ke bhr na jaaye
+    
+    
     long long help(int n,int r){
         long long prod=1;
         for(int i=0;i<r;i++){
@@ -63,7 +66,7 @@ public:
         }
         return prod;
     }
-    
+// ye end mei n+1 se iislie divide kr rhe h bcoz upr divide n tk hi ho rha h to isilie idhr bcha hua
     int numTrees(int n){
         return help(2*n,n)/(n+1);
     }
