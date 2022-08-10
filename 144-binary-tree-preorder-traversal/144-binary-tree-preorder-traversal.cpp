@@ -11,7 +11,9 @@
  */
 class Solution {
 public:
-    vector<int>ans;
+    // TIME-O(N) 
+    //SPACE-O(N) (in worst case i.e. skew trees)
+ /*   vector<int>ans;
     vector<int> preorderTraversal(TreeNode* root) {
         //root l r
         
@@ -23,5 +25,31 @@ public:
         
         return ans;
         
+    }
+    */
+    // ITERATIVELY
+    // same time and space comp
+    stack<TreeNode*>st;
+    vector<int> ans;
+    vector<int>preorderTraversal(TreeNode* root){
+        if(root==NULL) return ans;
+        
+        st.push(root);
+        
+        
+        while(!st.empty()){
+            TreeNode* check=st.top();
+            ans.push_back(st.top()->val);
+            st.pop();
+            
+            if(check->right!=NULL){
+                st.push(check->right);
+            }
+            if(check->left!=NULL){
+                st.push(check->left);
+            }
+            
+        }
+        return ans;
     }
 };
