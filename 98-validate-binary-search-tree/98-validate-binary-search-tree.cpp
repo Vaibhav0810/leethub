@@ -26,6 +26,9 @@ public:
     
     bool isValidBST(TreeNode* root) {
         
+        // ye aaproach bhi ni chlegi bcoz ye sirf right left se check kr rha h ki bda chota h ya ni 
+        // bt major node se ni
+        
 //         if(root==NULL) return 1;
 //         if(root->left==NULL && root->right==NULL) return 1;
       
@@ -48,6 +51,12 @@ public:
 //         return isValidBST(root->left) && isValidBST(root->right);
         
         return help(root,LONG_MAX,LONG_MIN);
+        
+        
+       
+        
+        
+        
         
     }
 };
