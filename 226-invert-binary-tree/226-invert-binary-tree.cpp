@@ -22,7 +22,8 @@ public:
         invertTree(root->left);
         invertTree(root->right);
         
-        TreeNode* invert=new TreeNode();
+        // sirf invert se km ch jaayega dont waste memory
+        TreeNode* invert;
         invert=root->left;
         root->left=root->right;
         root->right=invert;
@@ -30,4 +31,5 @@ public:
         return root;
         
     }
+    
 };
