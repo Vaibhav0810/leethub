@@ -20,11 +20,12 @@ public:
         if(root==NULL) return 0;
         
         int l=max(0,help(root->left,maxi));
-        int r=max(0,help(root->right,maxi)); // aise krne se -ve vali hrkt khtm ho jaayegi usse dekhega hi ni ye code
-        // to jo ye line 1 likhi h (maxi=max(maxi,root->val); // ye isilie bcoz agr left and right roots chote h to sirf rot ki val hi ans hogi na) iski zroort hi ni pdegi
+        int r=max(0,help(root->right,maxi)); // aise krne se -ve vali hrkt khtm ho jaayegi usse dekhega hi ni ye code 
+        // ye dekhna h ki agr right left se -ve aa rha h to usse consider hi ni krenge kyoki vo max ni hoga
+        
         
         maxi=max(maxi,l+r+root->val);
-  //      maxi=max(maxi,root->val); // ye isilie bcoz agr left and right roots chote h to sirf rot ki val hi ans hogi na
+  
         
         return (root->val)+max(l,r);
     }
