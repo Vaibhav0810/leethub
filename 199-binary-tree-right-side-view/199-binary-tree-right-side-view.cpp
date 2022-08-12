@@ -44,6 +44,8 @@ public:
 */
 
 // ik aur kaam kr skte h v ke nye vector ki jgh ussi mei compare krle agr i==n-1 then push in ans
+/*
+Time-O(N)
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
@@ -69,3 +71,25 @@ public:
         return ans;
     }
 };
+*/
+ //       Recursive(reverse pre order)
+//Time-O(N) space -O(N)
+class Solution {
+public:
+    vector<int> ans;
+    void help(TreeNode*root,int level,vector<int>&ans){
+        if(root==NULL) return ;
+        
+        if(ans.size()==level) ans.push_back(root->val);
+        help(root->right,level+1,ans);
+        help(root->left,level+1,ans);
+        
+    }
+    vector<int> rightSideView(TreeNode* root){
+        vector<int> ans;
+        help(root,0,ans);
+        return ans;
+    }
+};
+
+
