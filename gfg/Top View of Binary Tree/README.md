@@ -1,7 +1,7 @@
 Top View of Binary Tree
-Medium Accuracy: 32.3% Submissions: 100k+ Points: 4
-Given below is a binary tree. The task is to print the top view of binary tree. Top view of a binary tree is the set of nodes visible when the tree is viewed from the top.
-For the given below tree
+MediumAccuracy: 32.3%Submissions: 100k+Points: 4
+Given below is a binary tree. The task is to print the top view of binary tree. Top view of a binary tree is the set of nodes visible when the tree is viewed from the top. For the given below tree
+
        1
     /     \
    2       3
