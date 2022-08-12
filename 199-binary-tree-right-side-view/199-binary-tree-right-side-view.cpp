@@ -13,7 +13,7 @@
 /* 
     use level order traversal and maintain a secondary vector named v and after loop end push the final element of v
     in ans vector
-*/
+
 
 class Solution {
 public:
@@ -37,6 +37,34 @@ public:
             }
             int x=v.size()-1;       // storing last element
             ans.push_back(v[x]);    // pushing last element of v in ans
+        }
+        return ans;
+    }
+};
+*/
+
+// ik aur kaam kr skte h v ke nye vector ki jgh ussi mei compare krle agr i==n-1 then push in ans
+class Solution {
+public:
+    vector<int> rightSideView(TreeNode* root) {
+        vector<int>ans;
+        if(root==NULL) return ans;
+        queue<TreeNode*>q;
+        q.push(root);
+        while(!q.empty()){
+            
+            int n=q.size();
+            
+            
+            
+            for(int i=0;i<n;i++){
+                TreeNode* temp=q.front();
+                q.pop();
+                if(temp->left) q.push(temp->left);
+                if(temp->right) q.push(temp->right);
+                if(i==n-1) ans.push_back(temp->val);
+            }
+            
         }
         return ans;
     }
