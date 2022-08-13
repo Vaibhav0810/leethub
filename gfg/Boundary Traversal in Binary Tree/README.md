@@ -19,4 +19,6 @@ Input:
      8   9
    
 Output: 1 2 4 8 9 6 7 3
-Explanation:  AL LEFT  first then leaf then right ones
+Explanation:
+
+![graph4-300x300](https://user-images.githubusercontent.com/73460717/184469091-ac47747b-4f3f-4d95-9099-5a8990701f31.png)
