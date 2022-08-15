@@ -55,7 +55,7 @@ public:
     }
     */
     // 2 option h ya to 2 queue bna le ya 2 pointer 2 pointer jyada space efficient h
-    /*
+    
     bool isSymmetric(TreeNode* root){
         if(!root) return true;
         queue<TreeNode*>q;
@@ -81,23 +81,24 @@ public:
         }
         return true;
     }
-    */
-    // recursive
     
-    bool help(TreeNode* left,TreeNode* right){
-        if(left==NULL && right==NULL) return true;
-        if(!left|| !right) return false;
+    // recursive( isme dekhenge agr left ki value h right ke ya ni agr null tk aate aate equal h to mtlb ans shi h)
+    // ni to beech mei return false 
+    
+//     bool help(TreeNode* left,TreeNode* right){
+//         if(left==NULL && right==NULL) return true;
+//         if(!left|| !right) return false;
         
-        if(left->val!=right->val){
-            return false;
-        }
-        else{
-            return help(left->left,right->right)&& help(left->right,right->left);
-        }
+//         if(left->val!=right->val){
+//             return false;
+//         }
+//         else{
+//             return help(left->left,right->right)&& help(left->right,right->left);
+//         }
         
-    }
-    bool isSymmetric(TreeNode* root){
-        return help(root->left,root->right);
-    }
+//     }
+//     bool isSymmetric(TreeNode* root){
+//         return help(root->left,root->right);
+//     }
     
 };
