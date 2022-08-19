@@ -11,18 +11,37 @@
  */
 class Solution {
 public:
-    // Brute Time-O(N)
-    // Space- O(N)
-    int count=0;
+    
+    
+    int heightLeft(TreeNode* root){
+        int lh=0;
+        while(root){
+            lh++;
+            root=root->left;    
+        }
+        return lh;
+    }
+    
+    int heightRight(TreeNode* root){
+        int rh=0;
+        while(root){
+            rh++;
+            root=root->right;
+        }
+        return rh;
+    }
+    
     int countNodes(TreeNode* root) {
-        
         if(root==NULL) return 0;
         
-        countNodes(root->left);
-        count++;
-        countNodes(root->right);
+        int lh=heightLeft(root);
+        int rh=heightRight(root);
         
-        return count;
+        if(lh==rh){
+            return pow(2,lh)-1;
+        }
+        return 1+countNodes(root->left)+countNodes(root->right);
+        
         
     }
 };
