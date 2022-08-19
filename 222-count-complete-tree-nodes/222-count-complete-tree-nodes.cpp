@@ -34,6 +34,9 @@ public:
     
     // optimised Time-O((log N)^2) bcoz tree ki height log N hoti h (so log n for traaversing n log n for height)
     // Space-O(Log N)
+    
+    // isme hm jb tk aage jaate rhenge jb tk left n right height equal na mile jaise hi milegi hm uska ans return kr denge and end mei root node + kr denge
+    
     int heightLeft(TreeNode* root){
         int lh=0;
         while(root){
@@ -59,7 +62,7 @@ public:
         int rh=heightRight(root);
         
         if(lh==rh){
-            return pow(2,lh)-1;
+            return pow(2,lh)-1; // bcoz agr both sides ki height ewual ho to total itni hi nodes hoti h formula h
         }
         return 1+countNodes(root->left)+countNodes(root->right);
         
