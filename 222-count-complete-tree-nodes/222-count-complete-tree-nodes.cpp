@@ -11,8 +11,29 @@
  */
 class Solution {
 public:
+    // Brute Timer-O(N)
+   // Space -O(H) bcoz complete tree h to skew ni hoga so N ni ho paayega height ke brabr hi hogi space
     
+//     class Solution {
+// public:
+//     // Brute Time-O(N)
+//     // Space- O(N)
+//     int count=0;
+//     int countNodes(TreeNode* root) {
+        
+//         if(root==NULL) return 0;
+        
+//         countNodes(root->left);
+//         count++;
+//         countNodes(root->right);
+        
+//         return count;
+        
+//     }
+// };
     
+    // optimised Time-O((log N)^2) bcoz tree ki height log N hoti h (so log n for traaversing n log n for height)
+    // Space-O(Log N)
     int heightLeft(TreeNode* root){
         int lh=0;
         while(root){
