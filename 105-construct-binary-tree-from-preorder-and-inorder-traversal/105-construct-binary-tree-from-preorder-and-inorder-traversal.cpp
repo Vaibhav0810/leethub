@@ -39,33 +39,41 @@
 // recursion TIme-O(N)
 //Space-O(N);
 
-class Solution {
-public:
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+// phle isme map mei inorder ki sari value push krenge uske index ko point krke(unordered map bhi le skte h)
+// then helper function mei index mtlb jo vo root h uska index kya h inorder mei map mei
+// num left mtlb left mei kitne element bche h
 
-        
-        unordered_map<int,int>inM;
+class Solution{
+    public:
+    
+    
+    TreeNode* buildTree(vector<int> &preorder,vector<int> &inorder){
+        map<int,int>inM;
         
         for(int i=0;i<inorder.size();i++){
             inM[inorder[i]]=i;
         }
         
         TreeNode* root=help(preorder,0,preorder.size()-1,inorder,0,inorder.size()-1,inM);
+        
+        
         return root;
+        
     }
     
-    TreeNode* help(vector<int>&preorder,int preStart,int preEnd,vector<int>&inorder,int inStart,int inEnd,unordered_map<int,int>&inM){
+    TreeNode* help(vector<int>& preorder,int preStart,int preEnd,vector<int>& inorder,int inStart,int inEnd,map<int,int>&inM){
         
         if(preStart>preEnd || inStart>inEnd) return NULL;
         
         TreeNode* root=new TreeNode(preorder[preStart]);
         
-        int inR=inM[root->val];
-        int numLeft=inR-inStart;
+        int index=inM[root->val];
+        int numLeft=index-inStart;
         
-        root->left=help(preorder,preStart+1,numLeft+preStart,inorder,inStart,inR-1,inM);
-        root->right=help(preorder,preStart+numLeft+1,preEnd,inorder,inR+1,inEnd,inM);
-        return root;
+        root->left=help(preorder,preStart+1,preStart+numLeft,inorder,inStart,index-1,inM);
+        root->right=help(preorder,preStart+numLeft+1,preEnd,inorder,index+1,inEnd,inM);
+            
+            return root;
     }
     
 };
