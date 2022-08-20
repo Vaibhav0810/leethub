@@ -13,6 +13,8 @@ class Solution {
 public:
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         
+        if(inorder.size()!=postorder.size()) return NULL; // bcoz agr array eq ni h to aisa tree ho ni skta
+        
         map<int,int>inM;
         
         for(int i=0;i<inorder.size();i++){
@@ -32,7 +34,7 @@ public:
         int index=inM[root->val];
         int numLeft=index-inStart;
         
-        root->left=help(inorder,inStart,index-1,postorder,pStart,pStart+numLeft-1,inM);
+        root->left=help(inorder,inStart,index-1/*idhr numleft-1 ni chlega error aarhah*/,postorder,pStart,pStart+numLeft-1,inM);
         root->right=help(inorder,index+1,inEnd,postorder,pStart+numLeft,pEnd-1,inM); 
         
             
