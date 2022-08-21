@@ -56,7 +56,7 @@ public:
 };
 */
     //Morris Traversal
-    // TIME-O(N) SPACE-O(N)
+    // TIME-O(N) SPACE-O(1)
     
     // ISME hm left subtree ke right most element ko uss subtree ke root se connect kr denge 
     // like 1 2 6 3 4 isme 4 ko 1 se connect and then 3 ko 2 se connect aise;
