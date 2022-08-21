@@ -13,6 +13,8 @@
 // public:
     
 //     // recursively
+        //TIME-O(N) SPACE-O(N) (WORST CASE)
+        // IN avg case space = O(logn)
 //     vector<int>ans;
 //     vector<int> inorderTraversal(TreeNode* root) {
         
@@ -34,7 +36,12 @@
 //     }
 // };
 
-class Solution {
+                            // ITERATIVE USING STACK 
+    //TIME-O(N) SPACE-O(N)
+    // isme ik stack lenge phle firr usme push krte rhenge left aur jb left  khali ho jayega
+    // tb root=s.top krke root->val ko ans array mei daalkr right pr call kr denge
+
+/*class Solution {
 public:
     stack<TreeNode*>s;
     vector<int>ans;
@@ -52,6 +59,45 @@ public:
         }
         
         
+        return ans;
+    }
+};
+*/
+//                                    MORRIS TRAVERSAL
+// TIME-O(N) SPACE-O(1)
+
+//
+
+class Solution {
+public:
+    
+    vector<int> inorderTraversal(TreeNode* root) {
+        vector<int> ans;
+        
+        TreeNode* temp=root;
+        
+        while(temp!=NULL){
+            if(temp->left==NULL){
+                ans.push_back(temp->val);
+                temp=temp->right;
+            }
+            else{
+                TreeNode* prev=temp->left;
+                while(prev->right!=temp && prev->right){
+                        prev=prev->right;
+                }
+                if(prev->right==NULL){
+                    prev->right=temp;
+                    temp=temp->left;
+                }
+                else{
+                    prev->right=NULL;
+                    ans.push_back(temp->val);
+                    temp=temp->right;
+                }
+                    
+            }
+        }
         return ans;
     }
 };
