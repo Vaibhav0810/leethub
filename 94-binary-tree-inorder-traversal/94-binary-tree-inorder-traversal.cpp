@@ -66,7 +66,9 @@ public:
 //                                    MORRIS TRAVERSAL
 // TIME-O(N) SPACE-O(1)
 
-//
+//\U0001f333 1st case: if left is null, print current node and go right
+//\U0001f333 2nd case: before going left, make right most node on left subtree connected to current node, then go left
+//\U0001f333 3rd case: if thread is already pointed to current node, then remove the thread
 
 class Solution {
 public:
