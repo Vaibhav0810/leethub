@@ -11,6 +11,10 @@
  */
 class Solution {
 public:
+    
+    // recursive 
+    //TIME -O(N) SPACE-O(N)
+    /*
     TreeNode* temp;
     void flatten(TreeNode* root) {
         
@@ -25,4 +29,30 @@ public:
         temp=root;
         
     }
+    */
+    
+    // stack based (iterative)
+    //time-O(N) space-O(N)
+    
+    void flatten (TreeNode* root){
+        stack<TreeNode*>st;
+        if(root==NULL) return;
+        st.push(root);
+        
+        while(!st.empty()){
+            TreeNode* temp=st.top();
+            st.pop();
+            
+            if(temp->right) st.push(temp->right);
+            if(temp->left) st.push(temp->left);
+            
+            
+            if(!st.empty()){
+                temp->right=st.top();
+            }
+            temp->left=NULL;
+        }
+        
+    }
+    
 };
