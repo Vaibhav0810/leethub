@@ -50,7 +50,7 @@ public:
         
         stringstream s(data);  // kind of input ko words mei break kr deta h
         string str;
-        getline(s,str,',');  // iska mtlb h jaise ye string h 1,2,3,#,.... to ye line tumhe , se phle ki cheeze de degi(like 1   2  aise)
+        getline(s,str,',');  // iska mtlb h jaise ye string h 1,2,3,#,.... to ye line tumhe , se phle ki cheeze de degi(like 1   2  aise)(read more below)
         
         // baaki firr isme ye kia h dekha h ki string mei agli value kaunsi h agr # h to null lga do ni to vo number lga do
         TreeNode* root=new TreeNode(stoi(str));
@@ -88,3 +88,19 @@ public:
 // Your Codec object will be instantiated and called as such:
 // Codec ser, deser;
 // TreeNode* ans = deser.deserialize(ser.serialize(root));
+
+The C++ getline() is a standard library function that is used to read a string or a line from an input stream. 
+    It is a part of the <string> header. 
+    The getline() function extracts characters from the input stream and appends it to the string object until the delimiting character is encountered. 
+    While doing so the previously stored value in the string object str will be replaced by the input string if any.
+The getline() function can be represented in two ways: 
+
+Syntax:
+
+istream& getline(istream& is, 
+           string& str, char delim);
+2. Parameters: 
+
+is: It is an object of istream class and tells the function about the stream from where to read the input from.
+str: It is a string object, the input is stored in this object after being read from the stream.
+delim: It is the delimitation character which tells the function to stop reading further input after reaching this character.
