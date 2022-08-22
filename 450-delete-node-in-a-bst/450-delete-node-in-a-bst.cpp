@@ -62,6 +62,12 @@ public:
     }
     */
     
+    // first check if where is the key value find it in tree when found
+    // now if its on root itself we need to join root->left and root->right using help function
+    // if its on right or left so we combine root->left with root->right ke rightmost element se
+    // and then we return roots ->left
+    // TIME-O(height of tree) SPACE-none
+    
     TreeNode* deleteNode(TreeNode* temp,int key){
         
         if(temp==NULL) return NULL;
