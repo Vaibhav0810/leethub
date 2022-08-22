@@ -11,56 +11,6 @@
  */
 class Solution {
 public:
-    /*
-    TreeNode* deleteNode(TreeNode* root, int key) {
-        
-        if(root==NULL) return NULL;
-        
-        TreeNode* temp=root;
-        
-        while(temp){
-            if(temp->val<key){
-                temp=temp->right;
-            }
-            else if(temp->val>key) temp=temp->left;
-            else break;
-        }
-        
-        while(temp){
-            
-            
-            
-            if(temp->val==key){
-                
-                if(temp->right){
-                temp->val=temp->right->val;
-                if(temp->right->right==NULL) {
-                    temp->right=NULL;
-                    break;
-                }
-                else temp=temp->right;
-            }
-                
-                else if(temp->left){
-                    temp->val=temp->left->val;
-                    if(temp->left->left==NULL){
-                        temp->left=NULL;
-                        break;
-                    }
-                    else temp=temp->left;
-                }
-                
-                else if(temp->right==NULL && temp->left==NULL){
-                    TreeNode* empty=new TreeNode(NULL);
-                    temp=empty;
-                    break;
-                }
-            }
-            
-        }
-        return root;
-    }
-    */
     
     // first check if where is the key value find it in tree when found
     // now if its on root itself we need to join root->left and root->right using help function
