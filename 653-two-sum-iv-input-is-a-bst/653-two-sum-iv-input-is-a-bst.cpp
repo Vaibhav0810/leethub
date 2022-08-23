@@ -13,7 +13,8 @@ class Solution {
 public:
     
     // first we push all elements in vector in sorted order(bst inorder is always sorted) and then we just use 2 pointer 
-    
+    // brute force h ye time-O(N) space-O(N)
+    /*
     vector<int> inorder;
     bool findTarget(TreeNode* root, int k) {
         
@@ -37,6 +38,16 @@ public:
         inorder.push_back(root->val);
         helper(root->right,k);
         return inorder;
+    }
+    */
+    unordered_set<int>us;
+    bool findTarget(TreeNode* root,int k){
+        if(root==NULL) return false;
+        
+        if(us.count(k-root->val)) return true;
+        us.insert(root->val);
+        return findTarget(root->left,k) || findTarget(root->right,k);
+        
     }
     
 };
