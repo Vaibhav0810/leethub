@@ -9,12 +9,12 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-public:
+//class Solution {
+//public:
     
     // first we push all elements in vector in sorted order(bst inorder is always sorted) and then we just use 2 pointer 
     // brute force h ye time-O(N) space-O(N)
-    
+    /*
     vector<int> inorder;
     bool findTarget(TreeNode* root, int k) {
         
@@ -39,11 +39,11 @@ public:
         helper(root->right,k);
         return inorder;
     }
-    
+    */
     
     // unordered set se kia h ye
-    //iska run time and space upr vale se bht better aa rhi h
-    
+    //iska run time and space upr vale se bht better aa rhi h(upr vale ka around 450 ms iska 63 ms and space upr ki 700 mb and iski 40 mb)
+    // logically same time and space comp h
 /*    unordered_set<int>us;
     bool findTarget(TreeNode* root,int k){
         if(root==NULL) return false;
@@ -57,10 +57,64 @@ public:
     
     //                                    OPTIMISED SOLUTION
     
- //   bool findTarget(TreeNode* root,int k){
+// Time-O(N) space- O(h) where h is the height of the tree
+
+// isme bst iterator vale q ki trh kr rhe h bt usme sirf lowest value se kr rhe the isme lowest and highest dono se krenge and firr 2 pointer ki trh check krte jaayene agr i+j<k to i=l.next() aise
+//
+    
+class BSTIterator{
+    stack<TreeNode*> st;
+    bool reverse=true;
+public:
+    
+    BSTIterator(TreeNode* root,bool isReverse){
+        reverse=isReverse;
+        pushall(root);
+    }
         
- //   }
+   
+    bool hasnext(){
+        if(st.empty()) return true;
+        else return false;
+    }
     
+    int next(){
+       TreeNode* temp=st.top();
+        st.pop();
+        if(reverse==false) pushall(temp->right);
+        else pushall(temp->left);
+        return temp->val;
+    }
     
+    private:
+     void pushall(TreeNode* root){
+        while(root){
+            st.push(root);
+            if(reverse==true){
+                root=root->right;
+            }
+            else root=root->left;
+        }
+    }
     
 };
+
+class Solution{
+public:
+        
+        bool findTarget(TreeNode* root,int k){
+            if(root==NULL) return false; // if(!root) ik hi baat h
+            BSTIterator l(root, false);
+            BSTIterator r(root, true);
+            int i= l.next();
+            int j= r.next();
+            
+            while(i<j){
+            if(i+j==k) return true;
+            else if(i+j<k) i=l.next();
+            else if(i+j>k) j=r.next();
+            }
+            return false;
+        }
+}; 
+ 
