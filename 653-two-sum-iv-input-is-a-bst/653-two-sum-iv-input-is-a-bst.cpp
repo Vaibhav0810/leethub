@@ -81,7 +81,7 @@ public:
     int next(){
        TreeNode* temp=st.top();
         st.pop();
-        if(reverse==false) pushall(temp->right);
+        if(reverse==false) pushall(temp->right); // we are cchecking if there exist anything to right then we push it and after that we push that right all left but it there wont be anything in right then it will send null to pushall and then it wont push anything and it will keep on going like this
         else pushall(temp->left);
         return temp->val;
     }
