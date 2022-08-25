@@ -9,45 +9,6 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  
-// isme phle maine ik vector bnakr usme push krna chaha but first second ke bdd aur push ni hua upr se bht space and time comp lee rha h so not a good solution
-class Solution {
-public:
-    int mmin=INT_MAX;
-    
-    int getD(TreeNode* root){
-        if(root==NULL) return 0;
-        
-        int lh=getD(root->left);
-        int rh=getD(root->right);
-        
-        return 1+max(lh,rh);
-        
-    }
-    
-    int getMinimumDifference(TreeNode* root) {
-        
-        if(root==NULL) return 0;
-        
-        vector<int>v;
-        
-        v.push_back(root->val);
-        cout<<getD(root)<<endl;
-        int n=getD(root)-1;
-        while(n>0){
-            if(root->left) v.push_back(root->left->val);
-            if(root->right) v.push_back(root->right->val);
-            n--;
-        }
-        for(int i=0;i<v.size()-1;i++){
-            for(int j=i+1;j<v.size();j++){
-                if(abs(v[i]-v[j])<mmin){
-                    mmin=abs(v[i]-v[j]);
-                }
-            }
-        }
-        return mmin;
-    }
-};
 
 
 // another appraoch (recursive)
@@ -87,7 +48,32 @@ class Solution{
 //  CORRECT SO;UTION
 // jaise hme array mei agr aise absolute diff nikalna ho to kya krenge phle array sort krenge then closest value ka diff ka min nikalnege same aise hi iss mei
 // inorder travsersal se tree sort ho gya aur iik oprv maintain krenge jo uss se phle point krega so unn dono ko sub krenge aur jo min aaye vo ans
+          BRUTE
+class Solution {
+public:
+    vector<int> ans;
+    int diff=INT_MAX;
+    int getMinimumDifference(TreeNode* root) {
+        
+        help(root);
+        for(int i=0;i<ans.size()-1;i++){
+            diff=min(diff,ans[i+1]-ans[i]);
+        }
+        return diff;
+    }
+    
+    int help(TreeNode* root){
+       if(root==NULL) return 0;
+        
+        help(root->left);
+        ans.push_back(root->val);
+        help(root->right);
+         return 0;
+    }
+    
+};
 
+                          OPTIMISED
 
 class Solution{
     public:
@@ -99,7 +85,7 @@ class Solution{
         
         if(prv) diff=min(diff,root->val-prv->val);
         prv=root;
-        
+        // ye jo neeche vala if h ye isilie h bcoz if(root==NULL) return ni likha vo likho ya ye ik hi baat h
         if(root->right) help(root->right);
     }
     
