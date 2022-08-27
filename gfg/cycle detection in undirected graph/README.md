@@ -7,6 +7,9 @@ Given an undirected graph with V vertices and E edges, check whether it contains
 
 Example 1:
 
+![download](https://user-images.githubusercontent.com/73460717/187019090-63d4ea12-ca7d-4b36-ab14-66d8ab874d55.png)
+
+
 Input:  
 V = 5, E = 5
 adj = {{1}, {0, 2, 4}, {1, 3}, {2, 4}, {1, 3}} 
