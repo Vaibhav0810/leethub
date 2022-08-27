@@ -19,6 +19,9 @@ Explanation:
 1->2->3->4->1 is a cycle.
 Example 2:
 
+![download](https://user-images.githubusercontent.com/73460717/187019101-f838f3e0-d835-4c95-84d2-74e3e2ba4f7a.png)
+
+
 Input: 
 V = 4, E = 2
 adj = {{}, {2}, {1, 3}, {2}}
