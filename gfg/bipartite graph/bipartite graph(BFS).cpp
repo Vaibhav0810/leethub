@@ -12,7 +12,9 @@ using namespace std;
             
             for(auto it:adj[node]){
                 if(color[it]==-1){
-                    help(it,color,adj);
+                    color[it]=1-color[node];
+                    q.push(it);
+                    
                 }
                 else if(color[it]==color[node]) return false; // mtlb agr adj nodes ka color same h to mtlb glt h
             }
