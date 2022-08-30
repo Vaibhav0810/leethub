@@ -5,6 +5,7 @@ using namespace std;
 
     bool help(int node,vector<int>& color,vector<int>adj[]){
         queue<int>q; // for storing bfs
+        color[node]=1;
         q.push(node);
         while(!q.empty()){
             int node=q.front();
