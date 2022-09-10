@@ -30,7 +30,8 @@
                 int row=q.front().first;
                 int col=q.front().second;
                 q.pop();
-
+    // ye 3 cases isilie bcoz iss Q mei diagonal check ni krna aur agr diagonal bhi check krna ho to
+                // del row vala jaise del col ka loop andr uske aur baaki code ik brr bs
 
                 //traverse neighbours and mark them land
                 // ye sb iislie bcoz hm ksisi bhi direction mei check kr skte h diagonaly erticall horizontally
