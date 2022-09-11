@@ -94,6 +94,14 @@
 //             }
 //     };
 
+// ye upr ke aise 3 cases ki jgh array le skte h ye upr ka krne se acha ni lgta code so
+int delrow[]={-1,0,1,0}
+int delcol[]={0,1,0,-1}
+// for(int i=0;i<4;i++){
+//int nrow=row+delrow
+// int ncol=col+delcol
+
+
 // dfs version
 // isme visi matrix ni lia bcoz uski vjh se tle aa rha h
 
