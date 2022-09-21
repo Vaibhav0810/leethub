@@ -1,5 +1,10 @@
 class Solution {
 public:
+    
+    // isme jo o x se surrounded h unhe x kr dena h to surrounded means all four directions se hona chahie 
+    // to isme hm sare boarder prr jaakr check krenge vha koi h agr vha koi o h to vo kbhi surrounded ni ho skta
+    // to use o hi rehendenge aur aise hi uske adjacent pr check krenge
+    
     void solve(vector<vector<char>>& board) {
         
         int n=board.size();
@@ -28,6 +33,7 @@ public:
             
         }
         
+        // ye isilie bcoz agr koi o bch jaata h jo unn cases se cover ni hua to mtlb vo surrounded h to usse x mark kr do
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(board[i][j]=='O' && !visi[i][j]){
@@ -41,6 +47,7 @@ public:
         
     }
     
+    // simple dfs
     void dfs(int row,int col,vector<vector<int>>&visi,vector<vector<char>>&board,int delrow[],int delcol[]){
         int n=board.size();
         int m=board[0].size();
