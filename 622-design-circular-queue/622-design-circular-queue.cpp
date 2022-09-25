@@ -1,11 +1,11 @@
-#include<vector>
+// time comp- O(N) bcoz erase in vector takes o(N) bcoz after erase we have to shift elements too
+// space -O(N)
 class MyCircularQueue {
 public:
     
     vector<int>arr;
     int size;
-    int i=0;
-    //int j=0;
+    
     
     MyCircularQueue(int k) {
         size=k;
@@ -15,7 +15,7 @@ public:
         
         if(arr.size()<size){
             arr.push_back(value);
-            i++;
+            
             return true;
         }
         else return false;
