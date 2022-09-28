@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> findOrder(int V, vector<vector<int>>& pre) {
+        //ye topo sort ka question h isse topo sort ki trh sochna h
+        
+        // phle to giver vector ko adj list mei convert krdo uske bdd simple topo sort lgado
         
         vector<int>adj[V];
         vector<int>ans;
