@@ -1,6 +1,8 @@
-#define ll long long 
+
 class Solution {
 public:
+    // ye not working long test cases mei problem aa rhi h kuch pta ni kyu
+    
 //     vector<int> plusOne(vector<int>& digits) {
 //         vector<int>ans(digits.size()+1,0);
 //         ll num=0,n=digits.size()-1;
@@ -37,7 +39,7 @@ public:
                 digits[i]=0;
                 ans[j]=digits[i];
                 if(i-1>-1){
-                digits[i-1]=digits[i-1]+1;
+                    digits[i-1]=digits[i-1]+1;
                 }
                 else ans[j-1]=1;
                 j--;
