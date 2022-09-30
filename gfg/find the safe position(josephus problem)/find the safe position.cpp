@@ -1,6 +1,6 @@
 
 // using vector and recursion
-// time - O(N^2)
+// time - O(N^2) bcoz erase takes O(N) and O(N) for recursive thats why O(N^2)
 // space- O(N)
 
 int safePos(int n, int k) {
