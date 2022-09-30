@@ -5,22 +5,22 @@ public:
         // brute O(Nlog n)
         
         
-        // priority queue o(nlog k)
+        // optimised
         priority_queue<int>pq;
         
         for(int i=0;i<nums.size();i++){
             pq.push(nums[i]);
         }
-        int prv=0;
+        int prv=0,current=0;
         
         if(k==1) return pq.top();
         
         while(k>0){
             prv=pq.top();
             pq.pop();
+            current=pq.top();
             
-            
-            k--;
+             k--;
         }
         return prv;
         
