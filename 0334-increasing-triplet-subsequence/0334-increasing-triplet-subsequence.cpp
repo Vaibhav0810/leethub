@@ -17,74 +17,11 @@ public:
         // }
         // return false;
         
-        // optimised
+        //Optimised
         
-//         bool check1=false,check2=false;
-//         int maxi=nums[nums.size()-1];
-//         for(int i=nums.size()-2;i>=0;i--){
-            
-//             if(check1==true && check2==true){
-//                 return true;
-//             }
-            
-//             if(nums[i]<maxi){
-//                 if(check1==true) check2=true;
-//                 else check1=true;
-//                 //maxi=nums[i];
-//             }
-//             else if(nums[i]>maxi && nums.size()-1-i<=3){
-//                 //check1=false;
-//                 maxi=nums[i];
-//             }
-            
-            
-//         }
-//         if(check1==true && check2==true){
-//                 return true;
-//             }
-//         return false;
-        // aise to ho ni paa rha but ye krte krte ik alg idea aa gya
-        // we can start from mid
-        
-//         int mid=(nums.size()-1)/2;
-        
-//         int i=mid-1,j=mid+1;
-//         bool check1=false;
-//         bool check2=false;
-        
-//         while(i>=0 || j<=nums.size()-1){
-//             if(nums[mid]>nums[i] && i>=0){
-//                 if(check1==true){
-//                     check2=true;
-//                 }
-//                 else check1=true;
-//                 i--;
-                
-//             }
-//             if(nums[mid]<nums[j] && j<=nums.size()-1){
-//                 if(check1==true){
-//                     check2=true;
-//                 }
-//                 else check1=true;
-//                 j++;
-                
-//             }
-            
-//             if(nums[i]>nums[mid] && nums[mid]<nums[j]) return false;
-            
-//             if(nums[mid]==nums[i] && nums[mid]==nums[j]){
-//                 i--;
-//                 j++;
-//             }
-//             if(check1==true && check2==true) return true;
-//         }
-        
-//         return false;
-        
-        // nhi chl rha h upr ka kuch bhi
-        
-        // isme hm aisa pta kr rhe h bs ki 3 aise elements jo ik dusre se condition ke hisab se suitable h
         //The question only asks whether it exists. The key to prove this solution is always correct is that there is always a number before c2 that is less than c2, which might or might not be c1 (otherwise, c2==INT_MAX and wont get updated). Now if a number is greater than c2, we can safely return true
+        
+        // phle hm c1 mei minimum element daalenge aur agr uske bdd hme uss se koi bda element mil ta h to c2 ab agr koi teesra element mil rha h jo inn dono se bda h to mtlb hmari condition shi ho gyi to true return kr denge
         int c1=INT_MAX,c2=INT_MAX;
         
         for(int x:nums){
