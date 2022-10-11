@@ -2,6 +2,8 @@ class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
         
+        // nhi chl rha h kuch bhi
+        
         // brute tle time - O(N^3)
         // Space - O(1)
         // for(int i=0;i<nums.size()-2;i++){
@@ -80,7 +82,9 @@ public:
 //         return false;
         
         // nhi chl rha h upr ka kuch bhi
+        
         // isme hm aisa pta kr rhe h bs ki 3 aise elements jo ik dusre se condition ke hisab se suitable h
+        //The question only asks whether it exists. The key to prove this solution is always correct is that there is always a number before c2 that is less than c2, which might or might not be c1 (otherwise, c2==INT_MAX and wont get updated). Now if a number is greater than c2, we can safely return true
         int c1=INT_MAX,c2=INT_MAX;
         
         for(int x:nums){
