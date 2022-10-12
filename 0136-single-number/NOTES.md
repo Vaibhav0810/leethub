@@ -17,4 +17,26 @@ If we see, we will find out that xor of two same number is zero.
 Can we use this property here?
 Answer is Yes. But how?
 We will run a loop from all over the array, and simply start taking xor of two.
-// traverse from the array
+We do xor between prev answer of xor and current element.
+See dry run for more clarification.
+But, Question is WHY? why this works?
+We know every number is appears twice except a single number which appears only single time.
+​
+See, we already discuss a thing a that xor of a same number with itself is zero, i.e A ^ A = 0
+Now, we will look some more property of xor-
+​
+1) xor of a same number with itself is zero, i.e A ^ A = 0
+2) xor is commutative that means a ^ b = b ^ a.
+3) xor of any number with zero is the number itself i.e A ^ 0 = A.
+​
+Suppose our array is arr[]: [5, 1, 3, 1, 3, 4, 5, 7, 4]
+we will rearrange the array, and take all the numbers together, then our array looks like
+arr[]: [1, 1, 3, 3, 4, 4, 5, 5, 7]
+now, take xor of all numbers -
+1 ^ 1 ^ 3 ^ 3 ^ 4 ^ 4 ^ 5 ^ 5 ^ 7   (rearrange the array)
+0   ^   0   ^   0   ^   0   ^ 7   (see point number 1)
+7                     (see point number 3)
+​
+Now, The question again arises, do we really need to rearrange the array ?
+Answer is NO.
+1 ^ 5 = 4 (prev answer xor current index)
