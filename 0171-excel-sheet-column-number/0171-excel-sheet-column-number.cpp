@@ -20,16 +20,27 @@ public:
 
 // For s = "BCM" the final solution would be (2 x 26 x 26) + (3 x 26) + (13)
     
-    int titleToNumber(string columnTitle) {
-        int result=0;
+//     int titleToNumber(string columnTitle) {
+//         int result=0;
         
-        for(auto it:columnTitle){
-            int d=(it-'A'+1);
-            result=result*26+d;
+//         for(auto it:columnTitle){
+//             int d=(it-'A'+1);
+//             result=result*26+d;
+//         }
+//         return result;
+//     }
+    
+    int titleToNumber(string columnTitle){
+        int result=0;
+        int n=columnTitle.length()-1;
+        int size=n;
+        while(n>=0){
+            
+            int d=columnTitle[size-n]-'A'+1;
+            result=result+(pow(26,n)*d);
+            n--;
         }
         return result;
     }
-    
-    
     
 };
