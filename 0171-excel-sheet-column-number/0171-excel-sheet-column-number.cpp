@@ -29,7 +29,8 @@ public:
 //         }
 //         return result;
 //     }
-    
+    // similiar code h uper ka but eazy understanding h upr se
+    // jo likha h na explanation mei simple vohi h
     int titleToNumber(string columnTitle){
         int result=0;
         int n=columnTitle.length()-1;
