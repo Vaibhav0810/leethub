@@ -10,7 +10,7 @@ public:
 //         for(int i=0;i<word2.size();i++){
 //             w2=w2+word2[i];
 //         }
-//         if(w1==w2) return true;
+//         if(w1==w2) return true; // this can also be written as return w1==w2
 //         return false;
 //     }
     
