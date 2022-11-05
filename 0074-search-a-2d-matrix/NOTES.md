@@ -1,8 +1,9 @@
 If closely analyze the given matrix, we can notice one interesting property (╭ರ_•́): elements on the left are always smaller than the current element, and elements on the bottom are always greater. It reminds us of the Binary Search Tree, doesn't it (๏็ટૄ◟๏็ )? Just look at this matrix from this angle and everything will become clear to you (our target, say, is 11):
 ​
-image
-​
-![image](https://assets.leetcode.com/users/images/f29529fe-2398-4919-a154-60f210d92d11_1648601421.8099654.jpeghttp://)
+
+![image](https://user-images.githubusercontent.com/73460717/200114944-55ed9fba-e793-4bd5-a0c4-e34bbbf37f11.png)
+
+
 ​
 Woooooow!!! ٩(ˊᗜˋ*)و
 ​
