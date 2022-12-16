@@ -29,14 +29,19 @@ class Solution {
             int node=q.front().first;
             int wt=q.front().second;
             q.pop();
+            
+            // ik aur cheez kr skte h q ka pair na bnakr ik hi mei store aur dist vector se kaam chl skt ah
+            // for(auto it:adj[node]){
+            //     if(dist[it]>dist[node]+1){
+            //         dist[it]=dist[node]+1 aise krke hrr jgh
+            //     }
+            // }
+            
             for(auto it:adj[node]){
                 if(dist[it]>wt+1){
                     dist[it]=wt+1;
                     q.push({it,dist[it]});
                 }
-                
-                
-                
             }
         }
         for(int i=0;i<N;i++){
