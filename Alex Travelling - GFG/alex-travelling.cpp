@@ -37,11 +37,14 @@ class Solution {
                 }
             }
         }
-        sort(dist.begin(),dist.end());
-        for(int i=0;i<dist.size()-1;i++){
+        // sort bhi kr skte h ni to aise bhi 
+        // sort(dist.begin(),dist.end());
+        int count=0;
+        for(int i=1;i<dist.size();i++){
             if(dist[i]==1e9) return -1;
+            else count=max(count,dist[i]);
         }
-        return dist[n-1];
+        return count;
     }
 };
 
