@@ -9,6 +9,14 @@ using namespace std;
 // User function Template for C++
 
 class Solution {
+    
+    // mai isme path vector and parent vector bnakr parent store krke dist nikalna chah rha tha
+    // bt vo bht lmba hoga aur koi sense ni h
+    // isme pq and q koi bhi use kr skte h bt pq ka koi sense ni bnega bcoz vo hmne isilie use ki thi
+    // bcoz hme min dist chahie tha in starting bt isme already sbme same dist hi milega bczo adjacent ka dist ++ krenge uske source se to vo same hi rhega
+    // jaise agr ik point se 1 step upr neeche left ya right jaate h 
+    // to vo 1 dist hi maana jaaega isilie simple queue will also work
+    
     // unit weights
     // private:
     // int dijkstra(vector<vector<int>>&grid,
