@@ -1,10 +1,12 @@
 class Solution {
 public:
     
+    // isme jo vector h vo uss index ke children h like in eg1 0 1&2 se connected h aise
+    
     void dfs(int i,vector<vector<int>>&graph,vector<int>&path,vector<vector<int>>&ans){
         path.push_back(i);
         
-        if(i==graph.size()-1){
+        if(i==size(graph)-1){ // same meaning as graph.size()
             ans.push_back(path);
         }
         else{
