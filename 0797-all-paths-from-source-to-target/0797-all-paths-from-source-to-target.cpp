@@ -4,7 +4,7 @@ public:
     void dfs(int i,vector<vector<int>>&graph,vector<int>&path,vector<vector<int>>&ans){
         path.push_back(i);
         
-        if(i==size(graph)-1){
+        if(i==graph.size()-1){
             ans.push_back(path);
         }
         else{
