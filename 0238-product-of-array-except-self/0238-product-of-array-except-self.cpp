@@ -11,20 +11,39 @@ public:
         //Output: prefixSum[] = {10, 30, 40, 45, 60}
 
         
+//         int n=nums.size();
+        
+//         vector<int>begi(n),end(n);
+//         begi[0]=1,end[0]=1;
+        
+//         vector<int>ans(n);
+        
+//         for(int i=1;i<nums.size();i++){
+//             begi[i]=begi[i-1]*nums[i-1];
+//             end[i]=end[i-1]*nums[n-i];
+//         }
+        
+//         for(int i=0;i<n;i++){
+//             ans[i]=begi[i]*end[n-1-i];
+//         }
+        
+        
+        
+//        return ans;
+        
+        
+        // without extra space
+        
         int n=nums.size();
         
-        vector<int>begi(n),end(n);
-        begi[0]=1,end[0]=1;
+        int begi=1,end=1;
+        vector<int>ans(n,1);
         
-        vector<int>ans(n);
-        
-        for(int i=1;i<nums.size();i++){
-            begi[i]=begi[i-1]*nums[i-1];
-            end[i]=end[i-1]*nums[n-i];
-        }
-        
-        for(int i=0;i<n;i++){
-            ans[i]=begi[i]*end[n-1-i];
+        for(int i=0;i<nums.size();i++){
+            ans[i]=begi*ans[i];
+            begi*=nums[i];
+            ans[n-i-1]*=end;
+            end*=nums[n-i-1];
         }
         return ans;
     }
