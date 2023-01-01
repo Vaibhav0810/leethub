@@ -2,7 +2,7 @@ class Solution {
 public:
     bool wordPattern(string pattern, string s) {
         unordered_map<string,char>mp1;
-        
+       // https://leetcode.com/problems/word-pattern/discuss/1695928/As-simple-explanation-as-you-want
         
         int x=0;
         vector<string>v;
@@ -16,15 +16,16 @@ public:
             c.clear();
             x++; 
         }
-        set<char>count;
+    set<char>count;
         
-          if (v.size() != pattern.size())
+    if (v.size() != pattern.size())
          {
           return false;
          }
         
-        for(int i=0;i<pattern.size();i++){
-            if(mp1.find(v[i])==mp1.end() && count.find(pattern[i])==count.end()){
+    for(int i=0;i<pattern.size();i++){
+            
+    if(mp1.find(v[i])==mp1.end() &&count.find(pattern[i])==count.end()){
                 mp1.insert({v[i],pattern[i]});
                 count.insert(pattern[i]);
             }
