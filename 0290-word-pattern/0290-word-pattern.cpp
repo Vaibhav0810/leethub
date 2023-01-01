@@ -19,13 +19,13 @@ public:
         set<char>count;
         
           if (v.size() != pattern.size())
-     {
+         {
           return false;
-     }
+         }
         
         for(int i=0;i<pattern.size();i++){
             if(mp1.find(v[i])==mp1.end() && count.find(pattern[i])==count.end()){
-                mp1.emplace(v[i],pattern[i]);
+                mp1.insert({v[i],pattern[i]});
                 count.insert(pattern[i]);
             }
             else if(mp1[v[i]]!=pattern[i])
