@@ -33,6 +33,7 @@ public:
         
         
         // without extra space
+        // ye upr vala same kaam kr rha h bina extra space ke
         
         int n=nums.size();
         
