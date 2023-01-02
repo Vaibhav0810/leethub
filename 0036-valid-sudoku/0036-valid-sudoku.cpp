@@ -64,6 +64,10 @@ public:
         
 //        return true;
     
+         // phle isme ye check hoga ki row koi same elemenet to ni h
+// firr column mei check krenge
+         // ab uss block mei check krna h ye thda alg h
+         // to basically hm iske lie 9 blocks bna lenge 3X3 size ke(i/3)*3+j/3 iss se aise hi bnenge block. divide isilie bcoz 0 - 8 ke beech mei kisi bhi digit se hm divide kr de vo 0 1 2 hi aayega ans 
         
         vector<set<int>> rows(9), cols(9), blocks(9);
      
