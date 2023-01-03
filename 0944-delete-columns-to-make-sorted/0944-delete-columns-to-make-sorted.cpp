@@ -1,7 +1,9 @@
 class Solution {
 public:
     int minDeletionSize(vector<string>& strs) {
-       
+         
+        // question dyhaan se pdhaa kr
+        
         int count=0;
         
         for(int j=0;j<strs[0].size();j++){
