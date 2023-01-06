@@ -25,9 +25,16 @@ public:
         
         int left=0,right=height.size()-1,left_max=0,right_max=0,ans=0;
         
+        // isme hm phle check krenge ki left right mei se kiski hight bdi h ab jiski bdi aagyi uski max se check krenge ki uski bdi h ya ni 
+        // agr bdi h to max mei ye height daal do 
+        // bdi ni h to ans mei max - current height daal do
+        
         while(left<right){
             if(height[left]<height[right]){
-                height[left]>=left_max ? (left_max=height[left]) : ans+=(left_max-height[left]);
+                if(height[left]>=left_max){
+                    left_max=height[left];
+                }
+                else ans+=left_max-height[left];
                 left++;
             }
             
