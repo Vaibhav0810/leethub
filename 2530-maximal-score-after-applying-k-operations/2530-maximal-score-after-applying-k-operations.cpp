@@ -1,6 +1,10 @@
 class Solution {
 public:
     
+    // agr ye upr vala function use ni krna to aise bhi likh skte h
+    // push ke tym
+    // pq.push(ceil((double)x/3));
+    
     int ceill(int val){
         if(val%3==0) return val/3;
         else return val/3+1;
