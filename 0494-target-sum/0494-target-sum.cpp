@@ -42,6 +42,8 @@ public:
                 }
             }
         }
+        // ye power vala scene iislie bcoz ye 0 ko count ni kr rha h 
+        // to iss se hmm phle total ginn lenge kitne 0 h uske bdd usse multiply kr denge ans se
              return pow(2, z) * dp[nums.size()][s1];
     }
 };
