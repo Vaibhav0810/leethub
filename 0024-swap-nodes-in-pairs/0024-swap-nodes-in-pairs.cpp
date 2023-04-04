@@ -10,20 +10,40 @@
  */
 class Solution {
 public:
-    ListNode* swapPairs(ListNode* head) {
+//     ListNode* swapPairs(ListNode* head) {
         
+//         if(!head || !head->next) return head;
+        
+//         ListNode* dummy=new ListNode();
+//         ListNode* prv=dummy,*curr=head;
+//         while(curr && curr->next){
+//             prv->next=curr->next;
+//             curr->next=prv->next->next;
+//             prv->next->next=curr;
+//             prv=curr;
+//             curr=curr->next;
+//         }
+//         return dummy->next;
+        
+//     }
+    
+    // recursion
+    
+    void recur(ListNode* prv,ListNode* curr){
+        if(!curr || !curr->next) return ;
+        
+        prv->next=curr->next;
+        curr->next=prv->next->next;
+        prv->next->next=curr;
+        
+         recur(curr,curr->next);
+        
+    }
+    
+    ListNode* swapPairs(ListNode* head){
         if(!head || !head->next) return head;
-        
         ListNode* dummy=new ListNode();
-        ListNode* prv=dummy,*curr=head;
-        while(curr && curr->next){
-            prv->next=curr->next;
-            curr->next=prv->next->next;
-            prv->next->next=curr;
-            prv=curr;
-            curr=curr->next;
-        }
+        recur(dummy,head);
         return dummy->next;
-        
     }
 };
