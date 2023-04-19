@@ -24,7 +24,7 @@ public:
     
     int longestZigZag(TreeNode* root) {
         
-        bool direction=false; //false means left
+
 
         dfs(root,0,0);
         return pathLength;
