@@ -13,6 +13,17 @@ class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
         
+        //  generally used in segments trees
+        // its gonna send integer ovrflow error in one test case
+        // soo (long long)curr*2+1 is done
+        
+        //it can happen in trees like this
+            //     0            
+            //    /
+            //   1
+            //  /
+            // 2
+        
         if(!root) return 0;
         
         queue<pair<TreeNode*,int>>q;
