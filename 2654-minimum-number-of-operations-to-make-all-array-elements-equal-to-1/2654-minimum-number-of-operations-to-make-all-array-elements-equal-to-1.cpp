@@ -15,11 +15,11 @@ public:
             for(int j=i+1;j<n;j++){
                 g=__gcd(g,nums[j]);
                 if(g==1){
-                    res=min(res,j-i+(n-1)); // number of operations to make this element 1+ number of non ones (i.e. n-1) .
+                    res=min(res,j-i); // number of operations to make this element 1+ number of non ones (i.e. n-1) .
                     break;
                 } 
             }
         }
-        return res==1e7?-1:res;
+        return res==1e7?-1:res+n-1;
     }
 };
