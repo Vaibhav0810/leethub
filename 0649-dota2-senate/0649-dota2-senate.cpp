@@ -8,7 +8,8 @@ public:
             if(senate[i]=='R') rq.push(i);
             else dq.push(i);
         }
-        
+        // && and is same
+        // || or is same
         while(rq.size()!=0 && dq.size()!=0){
             int fr=rq.front();
             int fd=dq.front();
