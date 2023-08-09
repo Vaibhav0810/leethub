@@ -1,2 +1,2 @@
 # leethub
-Collection of LeetCode questions to ace the coding interview! 
+Collection of LeetCode/GFG questions done by me to ace the coding interview! 
