@@ -4,7 +4,7 @@ public:
         vector<int> ans;
         int i = 0, j = 0, n = nums.size();
         long long sum = 0;
-        if (n < k * 2) {
+        if (n < 2 * k + 1) {
             ans.resize(n, -1);
             return ans;
         }
@@ -13,19 +13,18 @@ public:
             i++;
         }
         i = 0;
-        while (i<n && j<n) {
+        while (i < n && j < n) {
             if ((j - k) < 0 || (j + k) >= n) {
                 // sum+=nums[j];
                 ans.push_back(-1);
                 j++;
-            }
-            else{
-                ans.push_back(sum/(k*2+1));
-                sum-=nums[i];
+            } else {
+                ans.push_back(sum / (k * 2 + 1));
+                sum -= nums[i];
                 i++;
                 j++;
-                if(j+k<n)
-                sum+=nums[j+k];
+                if (j + k < n)
+                    sum += nums[j + k];
             }
         }
         return ans;
