@@ -45,4 +45,20 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
