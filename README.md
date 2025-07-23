@@ -48,10 +48,12 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -60,5 +62,10 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
