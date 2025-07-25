@@ -53,6 +53,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vaibhav0810/leethub/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -62,6 +63,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vaibhav0810/leethub/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -79,6 +81,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -88,4 +91,12 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
