@@ -10,6 +10,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2211-k-radius-subarray-averages](https://github.com/Vaibhav0810/leethub/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -80,6 +81,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vaibhav0810/leethub/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph
@@ -92,6 +94,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vaibhav0810/leethub/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
@@ -112,4 +115,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
