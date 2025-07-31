@@ -1,6 +1,8 @@
 class Solution {
 public:
     int minSwaps(string s) {
+        //in this we know opening and closing tags count will be same so we will just take remove the matching pairs first then take the count of either opening/closing brackets and then count+1/2 will give us the ans(bcoz at one time 2 brackts are changed in case of swap)
+
         char open='[',close=']';
         int i=0,j=0,n=s.length();
         int openL=0;
@@ -13,7 +15,6 @@ public:
                 st.pop();
                 openL--;
             }
-            // else if(!st.empty() && st.top()==close && s[i]==open)
             else{
                 if(s[i]==open) openL++;
                 st.push(s[i]);
