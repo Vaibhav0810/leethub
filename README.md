@@ -130,6 +130,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vaibhav0810/leethub/tree/master/1197-parsing-a-boolean-expression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav0810/leethub/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -147,4 +148,16 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav0810/leethub/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
