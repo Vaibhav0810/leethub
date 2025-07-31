@@ -1,5 +1,10 @@
 class Solution {
 public:
+
+    // in this i will keep pushing in stack until I get )
+    // when i get this i will just keep popping the stack until i get &/ | / ! and keep on incrementing f and t.
+    // now i will evaluate the statement and push it in stack
+
     bool parseBoolExpr(string exp) {
         int f =0,t=0,i=0,n=exp.length();
         if(n<=1) return exp[0]=='f' ? false:true;
