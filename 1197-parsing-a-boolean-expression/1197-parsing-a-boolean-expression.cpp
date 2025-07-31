@@ -36,12 +36,12 @@ public:
                 f=0;
                 t=0;
             }
-            
+            if(exp[i]!='(' && exp[i]!=')')
             st.push(exp[i]);
             i++;
         }
        
-        st.pop();
+        // st.pop();
         if(st.top()=='f') return false;
         return true;
     }
