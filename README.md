@@ -38,6 +38,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Vaibhav0810/leethub/tree/master/0076-minimum-window-substring) |
+| [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vaibhav0810/leethub/tree/master/1197-parsing-a-boolean-expression) |
@@ -130,6 +131,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vaibhav0810/leethub/tree/master/1197-parsing-a-boolean-expression) |
@@ -143,6 +145,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vaibhav0810/leethub/tree/master/1197-parsing-a-boolean-expression) |
 ## Simulation
 |  |
@@ -160,4 +163,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
