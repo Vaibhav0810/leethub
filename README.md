@@ -133,6 +133,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Vaibhav0810/leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -156,6 +157,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Vaibhav0810/leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -174,4 +176,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Vaibhav0810/leethub/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
