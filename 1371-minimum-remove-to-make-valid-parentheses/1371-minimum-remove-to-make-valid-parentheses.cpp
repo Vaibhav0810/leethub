@@ -73,45 +73,78 @@ public:
     // bcoz if there are these chars too with alphabets then it will give
     // problem
 
-    string minRemoveToMakeValid(string s) {
-        int n = s.length();
-        vector<bool> valid(n, true);
-        int count = 0;
+    // string minRemoveToMakeValid(string s) {
+    //     int n = s.length();
+    //     vector<bool> valid(n, true);
+    //     int count = 0;
 
-        // Forward pass: remove extra ')'
-        for (int i = 0; i < n; i++) {
+    //     // Forward pass: remove extra ')'
+    //     for (int i = 0; i < n; i++) {
+    //         if (s[i] == '(') {
+    //             count++;
+    //         } else if (s[i] == ')') {
+    //             if (count == 0) {
+    //                 valid[i] = false; // Mark for removal
+    //             } else {
+    //                 count--;
+    //             }
+    //         }
+    //     }
+
+    //     // Backward pass: remove extra '('
+    //     count = 0;
+    //     for (int i = n - 1; i >= 0; i--) {
+    //         if (s[i] == ')') {
+    //             count++;
+    //         } else if (s[i] == '(') {
+    //             if (count == 0) {
+    //                 valid[i] = false; // Mark for removal
+    //             } else {
+    //                 count--;
+    //             }
+    //         }
+    //     }
+
+    //     // Build the result
+    //     string ans;
+    //     for (int i = 0; i < n; i++) {
+    //         if (valid[i]) {
+    //             ans += s[i];
+    //         }
+    //     }
+    //     return ans;
+    // }
+
+    //  STack version
+
+      string minRemoveToMakeValid(string s) {
+        stack<int> st;
+        
+        // First pass: track invalid parentheses
+        for (int i = 0; i < s.length(); i++) {
             if (s[i] == '(') {
-                count++;
+                st.push(i);
             } else if (s[i] == ')') {
-                if (count == 0) {
-                    valid[i] = false; // Mark for removal
+                if (!st.empty() && s[st.top()] == '(') {
+                    st.pop();
                 } else {
-                    count--;
+                    st.push(i);
                 }
             }
         }
 
-        // Backward pass: remove extra '('
-        count = 0;
-        for (int i = n - 1; i >= 0; i--) {
-            if (s[i] == ')') {
-                count++;
-            } else if (s[i] == '(') {
-                if (count == 0) {
-                    valid[i] = false; // Mark for removal
-                } else {
-                    count--;
-                }
+        // Second pass: build the result in reverse, skipping invalid indices
+        string result;
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (!st.empty() && st.top() == i) {
+                st.pop();
+                continue;
             }
+            result += s[i];
         }
 
-        // Build the result
-        string ans;
-        for (int i = 0; i < n; i++) {
-            if (valid[i]) {
-                ans += s[i];
-            }
-        }
-        return ans;
+        reverse(result.begin(), result.end());
+        return result;
     }
+
 };
