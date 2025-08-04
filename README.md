@@ -42,6 +42,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Vaibhav0810/leethub/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/Vaibhav0810/leethub/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vaibhav0810/leethub/tree/master/1197-parsing-a-boolean-expression) |
@@ -138,6 +139,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhav0810/leethub/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Vaibhav0810/leethub/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
@@ -150,6 +152,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Vaibhav0810/leethub/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
@@ -170,6 +173,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Vaibhav0810/leethub/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
