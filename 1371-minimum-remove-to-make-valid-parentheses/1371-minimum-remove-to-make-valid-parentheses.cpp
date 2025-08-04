@@ -5,66 +5,113 @@ public:
     // then in other pass we will check if ( exceeds ) this count then erase
 
     // string minRemoveToMakeValid(string s) {
-        // int count = 0;
-        // int idx = 0;
-        // while (idx < s.length()) {
-        //     if (s[idx] == '(')
-        //         count++;
-        //     if (s[idx] == ')')
-        //         count--;
+    // int count = 0;
+    // int idx = 0;
+    // while (idx < s.length()) {
+    //     if (s[idx] == '(')
+    //         count++;
+    //     if (s[idx] == ')')
+    //         count--;
 
-        //     if ((s[idx] == ')' || s[idx] == '(') && count < 0) {
-        //         s.erase(s.begin() + idx);
-        //         count++;
-        //         idx--;
-        //     }
-        //     idx++;
-        // }
-        // idx = s.length()-1;
-        // if (count > 0) {
-        //     count = 0;
-        //     while (idx >=0) {
-        //         if (s[idx] == '(')
-        //             count--;
-        //         if (s[idx] == ')')
-        //             count++;
+    //     if ((s[idx] == ')' || s[idx] == '(') && count < 0) {
+    //         s.erase(s.begin() + idx);
+    //         count++;
+    //         idx--;
+    //     }
+    //     idx++;
+    // }
+    // idx = s.length()-1;
+    // if (count > 0) {
+    //     count = 0;
+    //     while (idx >=0) {
+    //         if (s[idx] == '(')
+    //             count--;
+    //         if (s[idx] == ')')
+    //             count++;
 
-        //         if ((s[idx] == ')' || s[idx] == '(') && count < 0) {
-        //             s.erase(s.begin() + idx);
-        //             count++;
-        //         }
-        //         idx--;
-        //     }
-        // }
-        // return s;
+    //         if ((s[idx] == ')' || s[idx] == '(') && count < 0) {
+    //             s.erase(s.begin() + idx);
+    //             count++;
+    //         }
+    //         idx--;
+    //     }
+    // }
+    // return s;
     // }
 
     // Time - > O(N) Space O(N)
-    // as we know there will be only lower case letter and brackets so we can mark extra bracket by a *
+    // as we know there will be only lower case letter and brackets so we can
+    // mark extra bracket by a *
     //  and then remove it
+    // string minRemoveToMakeValid(string s) {
+    //     int n=s.length();
+    //     string ans="";
+    //     int count=0;
+    //     for(int i=0;i<n;i++){
+    //         if(s[i]=='('){
+    //             count++;
+    //         }
+    //         if(s[i]==')') count--;
+    //         if(count<0) s[i]='*',count++;
+    //     }
+    //     if(count>0){
+    //         count=0;
+    //         for(int i=n-1;i>=0;i--){
+    //             if(s[i]=='(') count--;
+    //             if(s[i]==')') count++;
+    //             if(count<0) s[i]='*',count++;
+    //         }
+    //     }
+    //     for(int i=0;i<n;i++){
+    //         if(s[i]!='*') ans.push_back(s[i]);
+    //     }
+    //     return ans;
+
+    // }
+
+    // instead of * placeholder we can use a bool vector array
+    // bcoz if there are these chars too with alphabets then it will give
+    // problem
+
     string minRemoveToMakeValid(string s) {
-        int n=s.length();
-        string ans="";
-        int count=0;
-        for(int i=0;i<n;i++){
-            if(s[i]=='('){
+        int n = s.length();
+        vector<bool> valid(n, true);
+        int count = 0;
+
+        // Forward pass: remove extra ')'
+        for (int i = 0; i < n; i++) {
+            if (s[i] == '(') {
                 count++;
-            }
-            if(s[i]==')') count--;
-            if(count<0) s[i]='*',count++;
-        }
-        if(count>0){
-            count=0;
-            for(int i=n-1;i>=0;i--){
-                if(s[i]=='(') count--;
-                if(s[i]==')') count++;
-                if(count<0) s[i]='*',count++;
+            } else if (s[i] == ')') {
+                if (count == 0) {
+                    valid[i] = false; // Mark for removal
+                } else {
+                    count--;
+                }
             }
         }
-        for(int i=0;i<n;i++){
-            if(s[i]!='*') ans.push_back(s[i]);
+
+        // Backward pass: remove extra '('
+        count = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            if (s[i] == ')') {
+                count++;
+            } else if (s[i] == '(') {
+                if (count == 0) {
+                    valid[i] = false; // Mark for removal
+                } else {
+                    count--;
+                }
+            }
+        }
+
+        // Build the result
+        string ans;
+        for (int i = 0; i < n; i++) {
+            if (valid[i]) {
+                ans += s[i];
+            }
         }
         return ans;
-
     }
 };
