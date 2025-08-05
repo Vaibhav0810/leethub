@@ -1,44 +1,38 @@
 class Solution {
 public:
-    int maximumGain(string s, int x, int y) {
-        int maxi=x>=y?x:y;
-        stack<char>st;
-        int ans=0;
-        if(maxi==x){
-            for(int i=0;i<s.size();i++){
-                if(!st.empty() && st.top()=='a' && s[i]=='b') st.pop(),ans+=x;
-                else st.push(s[i]);
-            }
-            
-            s.clear();
-            while(!st.empty()){
-                s.push_back(st.top());
-                st.pop();
-            }
-            reverse(s.begin(),s.end());
-            for(int i=0;i<s.size();i++){
-                if(!st.empty() && st.top()=='b' && s[i]=='a') st.pop(),ans+=y;
-                else st.push(s[i]);
-            }
-        }
-        else{
-            for(int i=0;i<s.size();i++){
-                if(!st.empty() && st.top()=='b' && s[i]=='a') st.pop(),ans+=y;
-                else st.push(s[i]);
-            }
-            s.clear();
-            while(!st.empty()){
-                s.push_back(st.top());
-                st.pop();
-            }
-            reverse(s.begin(),s.end());
-            for(int i=0;i<s.size();i++){
-                if(!st.empty() && st.top()=='a' && s[i]=='b') st.pop(),ans+=x;
-                else st.push(s[i]);
-            }
+     int maximumGain(string s, int x, int y) {
+        int n     = s.length();
+        int score = 0;
 
-        }
-        return ans;
+        string maxStr = (x > y) ? "ab" : "ba";
+        string minStr = (maxStr == "ab") ? "ba" : "ab"; //This is updated after the video was made as a new test case was added in Leetcode
 
+        //First Pass
+        string temp_first     = removeSubstring(s, maxStr);
+        int L                 = temp_first.length();
+        int removedPairsCount = (n - L) / 2;
+        score                += removedPairsCount * max(x, y);
+
+
+        //Second Pass
+        string temp_second = removeSubstring(temp_first, minStr);
+        removedPairsCount  = (L - temp_second.length()) / 2;
+        score             += removedPairsCount * min(x, y);
+
+        return score;
+    }
+
+    string removeSubstring(string& inputString, string& matchStr) {
+       int i=0;
+       for(int j=0;j<inputString.length();j++){ // j is for reading each char
+            inputString[i]=inputString[j]; //writing on idx i whatver j reads
+            i++;
+            if(i>=2 && inputString[i-2]==matchStr[0] && inputString[i-1]==matchStr[1]){ // found matchstr before i
+                i-=2;
+            }
+       }
+
+       inputString.erase(inputString.begin()+i,inputString.end());
+       return inputString;
     }
 };
