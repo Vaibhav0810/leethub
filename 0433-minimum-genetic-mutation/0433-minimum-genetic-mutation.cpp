@@ -1,5 +1,9 @@
 class Solution {
 public:
+
+    // in this we will start by putting changing one char in a string then checking if its present
+    // in bank or not. If its present we will increase the level the start changing other chars
+
     int minMutation(string startGene, string endGene, vector<string>& bank) {
         unordered_set<string> bankset(bank.begin(), bank.end());
         queue<string> q;
