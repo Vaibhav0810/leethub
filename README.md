@@ -9,6 +9,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
+| [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -27,6 +28,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Vaibhav0810/leethub/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Vaibhav0810/leethub/tree/master/0433-minimum-genetic-mutation) |
+| [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav0810/leethub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vaibhav0810/leethub/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sliding Window
@@ -47,6 +49,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Vaibhav0810/leethub/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/Vaibhav0810/leethub/tree/master/0433-minimum-genetic-mutation) |
+| [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vaibhav0810/leethub/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -78,6 +81,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vaibhav0810/leethub/tree/master/0813-all-paths-from-source-to-target) |
+| [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/Vaibhav0810/leethub/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Vaibhav0810/leethub/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -96,6 +100,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vaibhav0810/leethub/tree/master/0813-all-paths-from-source-to-target) |
+| [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/Vaibhav0810/leethub/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Vaibhav0810/leethub/tree/master/0922-possible-bipartition) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -110,6 +115,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
+| [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
 | [0922-possible-bipartition](https://github.com/Vaibhav0810/leethub/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vaibhav0810/leethub/tree/master/1058-lexicographically-smallest-equivalent-string) |
