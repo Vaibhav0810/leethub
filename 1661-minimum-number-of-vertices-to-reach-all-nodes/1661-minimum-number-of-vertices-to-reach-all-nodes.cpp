@@ -1,6 +1,9 @@
 class Solution {
 public:
-    
+    // Idea : Here idea is track of all the vertices from which we start traversing,
+    //  and if we found vertex which is already in result set and reached by other 
+    // vertex then we will remove it from result set beacuse vertex and all the 
+    // vertices that can reached from that vertex can also be reached from other vertex.
     void dfs(int i,vector<vector<int>>&adj,vector<bool>&visi,set<int>&st){
         visi[i]=1;
         for(auto it:adj[i]){
