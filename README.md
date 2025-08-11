@@ -19,6 +19,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2211-k-radius-subarray-averages](https://github.com/Vaibhav0810/leethub/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/Vaibhav0810/leethub/tree/master/2529-range-product-queries-of-powers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav0810/leethub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2846-robot-collisions](https://github.com/Vaibhav0810/leethub/tree/master/2846-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vaibhav0810/leethub/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -73,6 +74,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/Vaibhav0810/leethub/tree/master/2529-range-product-queries-of-powers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -259,4 +261,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Vaibhav0810/leethub/tree/master/0900-reordered-power-of-2) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/Vaibhav0810/leethub/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
