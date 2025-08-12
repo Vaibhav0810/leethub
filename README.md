@@ -31,6 +31,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0433-minimum-genetic-mutation](https://github.com/Vaibhav0810/leethub/tree/master/0433-minimum-genetic-mutation) |
 | [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
 | [0900-reordered-power-of-2](https://github.com/Vaibhav0810/leethub/tree/master/0900-reordered-power-of-2) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav0810/leethub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vaibhav0810/leethub/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sliding Window
@@ -88,6 +89,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0871-keys-and-rooms](https://github.com/Vaibhav0810/leethub/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Vaibhav0810/leethub/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vaibhav0810/leethub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vaibhav0810/leethub/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -108,6 +110,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0922-possible-bipartition](https://github.com/Vaibhav0810/leethub/tree/master/0922-possible-bipartition) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vaibhav0810/leethub/tree/master/2121-find-if-path-exists-in-graph) |
@@ -265,4 +268,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/Vaibhav0810/leethub/tree/master/2529-range-product-queries-of-powers) |
+## Tree
+|  |
+| ------- |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
