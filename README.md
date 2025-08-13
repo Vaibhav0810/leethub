@@ -212,6 +212,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/Vaibhav0810/leethub/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vaibhav0810/leethub/tree/master/1197-parsing-a-boolean-expression) |
 ## Simulation
 |  |
@@ -239,6 +240,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/Vaibhav0810/leethub/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/Vaibhav0810/leethub/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
