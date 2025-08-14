@@ -2,7 +2,7 @@ class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst,
                           int k) {
-        // vector<vector<int>> dist(n, vector<int>(k+2, INT_MAX));
+        vector<int> dist(n, INT_MAX);
         vector<vector<pair<int, int>>> adj(n);
         for (auto it : flights) {
             int u = it[0];
@@ -10,36 +10,32 @@ public:
             int w = it[2];
             adj[u].push_back({v, w});
         }
-        priority_queue<pair<int, pair<int, int>>,
-                       vector<pair<int, pair<int, int>>>,
-                       greater<pair<int, pair<int, int>>>>
-            pq;
-        // ans[src] = {0, 0};
-        pq.push({0, {src, 0}});
-        vector<vector<int>> dist(n, vector<int>(k + 2, INT_MAX));
-        dist[src][0] = 0;
+        queue<pair<int,int>>q;
+        q.push({src,0});
+        dist[src]=0;
+        int steps=0;
 
-        while (!pq.empty()) {
-            auto [currDist, state] = pq.top();
-            auto [currNode, stops] = state;
-            pq.pop();
+        while(!q.empty() && steps<=k){
+            int N= q.size();
 
-            if (stops > k)
-                continue;
+            while(N--){
+                int u=q.front().first;
+                int d=q.front().second;
 
-            for (auto [node, d] : adj[currNode]) {
-                int newCost = currDist + d;
-                if (newCost < dist[node][stops + 1]) {
-                    dist[node][stops + 1] = newCost;
-                    pq.push({newCost, {node, stops + 1}});
+                q.pop();
+                for(auto P:adj[u]){
+                    int v = P.first;
+                    int cost = P.second;
+                    if(dist[v] > d+cost){
+                        dist[v]=d+cost;
+                        q.push({v,d+cost});
+                    }
                 }
             }
+            steps++;
         }
-
-        int ansCost = INT_MAX;
-        for (int s = 0; s <= k + 1; s++) {
-            ansCost = min(ansCost, dist[dst][s]);
-        }
-        return (ansCost == INT_MAX) ? -1 : ansCost;
+        if(dist[dst]==INT_MAX) return -1;
+        return dist[dst];
+        
     }
 };
