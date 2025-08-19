@@ -9,11 +9,8 @@ public:
                 while(j<n && nums[j]==0){
                     j++;
                 }
-                int store=j-i;
-                while(store>0){
-                    ans+=store;
-                    store--;
-                }
+                long long store=j-i;
+                ans+=(long long)store*(store+1)/2;
                 i=j;
             }
         }
