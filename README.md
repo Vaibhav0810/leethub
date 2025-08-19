@@ -295,4 +295,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vaibhav0810/leethub/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Vaibhav0810/leethub/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
