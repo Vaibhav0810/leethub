@@ -54,13 +54,6 @@ public:
         sort(begin(edges),end(edges),lambda);
         int edgeCount=0;
 
-        // component=n;
-        // rank.resize(n,0);
-        // parent.resize(n);
-        // for(int i=0;i<n;i++){
-        //     parent[i]=i;
-        // }
-
         for(auto &vec:edges){
             bool toAddEdge=false;
             int type=vec[0];
