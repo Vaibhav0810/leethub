@@ -133,6 +133,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vaibhav0810/leethub/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vaibhav0810/leethub/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -154,6 +155,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vaibhav0810/leethub/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vaibhav0810/leethub/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vaibhav0810/leethub/tree/master/1986-largest-color-value-in-a-directed-graph) |
