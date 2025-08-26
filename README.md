@@ -25,6 +25,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav0810/leethub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2846-robot-collisions](https://github.com/Vaibhav0810/leethub/tree/master/2846-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vaibhav0810/leethub/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vaibhav0810/leethub/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vaibhav0810/leethub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
