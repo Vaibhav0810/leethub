@@ -27,6 +27,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vaibhav0810/leethub/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vaibhav0810/leethub/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vaibhav0810/leethub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Vaibhav0810/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vaibhav0810/leethub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Vaibhav0810/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/Vaibhav0810/leethub/tree/master/0900-reordered-power-of-2) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2846-robot-collisions](https://github.com/Vaibhav0810/leethub/tree/master/2846-robot-collisions) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Vaibhav0810/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
 |  |
 | ------- |
