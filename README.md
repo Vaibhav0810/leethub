@@ -6,6 +6,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vaibhav0810/leethub/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
@@ -31,6 +32,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vaibhav0810/leethub/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Vaibhav0810/leethub/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Vaibhav0810/leethub/tree/master/0433-minimum-genetic-mutation) |
@@ -188,6 +190,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vaibhav0810/leethub/tree/master/0037-sudoku-solver) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -286,6 +289,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vaibhav0810/leethub/tree/master/0037-sudoku-solver) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vaibhav0810/leethub/tree/master/0813-all-paths-from-source-to-target) |
 ## Counting
 |  |
