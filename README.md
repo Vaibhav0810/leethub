@@ -18,6 +18,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2211-k-radius-subarray-averages](https://github.com/Vaibhav0810/leethub/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -182,6 +183,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vaibhav0810/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
+| [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
 ## Shortest Path
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/Vaibhav0810/leethub/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vaibhav0810/leethub/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
 |  |
