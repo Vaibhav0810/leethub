@@ -15,6 +15,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1325-path-with-maximum-probability](https://github.com/Vaibhav0810/leethub/tree/master/1325-path-with-maximum-probability) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Vaibhav0810/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
@@ -168,6 +169,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0871-keys-and-rooms](https://github.com/Vaibhav0810/leethub/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Vaibhav0810/leethub/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
+| [1325-path-with-maximum-probability](https://github.com/Vaibhav0810/leethub/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vaibhav0810/leethub/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vaibhav0810/leethub/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -192,6 +194,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vaibhav0810/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Vaibhav0810/leethub/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
 ## Shortest Path
@@ -200,6 +203,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vaibhav0810/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Vaibhav0810/leethub/tree/master/1325-path-with-maximum-probability) |
 ## Matrix
 |  |
 | ------- |
