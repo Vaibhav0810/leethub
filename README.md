@@ -21,6 +21,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 | [2211-k-radius-subarray-averages](https://github.com/Vaibhav0810/leethub/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vaibhav0810/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -105,6 +106,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vaibhav0810/leethub/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vaibhav0810/leethub/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Vaibhav0810/leethub/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Vaibhav0810/leethub/tree/master/2439-longest-cycle-in-a-graph) |
@@ -130,6 +132,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vaibhav0810/leethub/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vaibhav0810/leethub/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Vaibhav0810/leethub/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Vaibhav0810/leethub/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -172,6 +175,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vaibhav0810/leethub/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vaibhav0810/leethub/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vaibhav0810/leethub/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Vaibhav0810/leethub/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Vaibhav0810/leethub/tree/master/2439-longest-cycle-in-a-graph) |
@@ -274,6 +278,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Vaibhav0810/leethub/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/Vaibhav0810/leethub/tree/master/0900-reordered-power-of-2) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vaibhav0810/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
@@ -326,4 +331,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Vaibhav0810/leethub/tree/master/0176-second-highest-salary) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
