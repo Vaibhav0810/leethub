@@ -8,6 +8,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vaibhav0810/leethub/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
+| [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
@@ -59,6 +60,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Vaibhav0810/leethub/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
+| [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Vaibhav0810/leethub/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/Vaibhav0810/leethub/tree/master/0433-minimum-genetic-mutation) |
 | [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
@@ -90,6 +92,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
@@ -111,6 +114,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Vaibhav0810/leethub/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
@@ -132,6 +136,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
 | [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
@@ -151,6 +156,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Vaibhav0810/leethub/tree/master/0801-is-graph-bipartite) |
@@ -187,6 +193,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vaibhav0810/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Matrix
