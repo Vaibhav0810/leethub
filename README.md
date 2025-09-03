@@ -94,6 +94,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Vaibhav0810/leethub/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
@@ -160,6 +161,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Vaibhav0810/leethub/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vaibhav0810/leethub/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Vaibhav0810/leethub/tree/master/0744-network-delay-time) |
@@ -340,4 +342,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Vaibhav0810/leethub/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
