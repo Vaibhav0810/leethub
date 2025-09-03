@@ -174,6 +174,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vaibhav0810/leethub/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vaibhav0810/leethub/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
+| [1738-maximal-network-rank](https://github.com/Vaibhav0810/leethub/tree/master/1738-maximal-network-rank) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vaibhav0810/leethub/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vaibhav0810/leethub/tree/master/2121-find-if-path-exists-in-graph) |
