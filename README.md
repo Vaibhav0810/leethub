@@ -76,6 +76,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vaibhav0810/leethub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav0810/leethub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3462-vowels-game-in-a-string](https://github.com/Vaibhav0810/leethub/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -287,6 +288,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/Vaibhav0810/leethub/tree/master/0900-reordered-power-of-2) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vaibhav0810/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/Vaibhav0810/leethub/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -346,4 +348,12 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Vaibhav0810/leethub/tree/master/0332-reconstruct-itinerary) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Vaibhav0810/leethub/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Vaibhav0810/leethub/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
