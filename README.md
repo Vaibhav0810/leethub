@@ -226,6 +226,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
@@ -308,6 +309,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
 | [0900-reordered-power-of-2](https://github.com/Vaibhav0810/leethub/tree/master/0900-reordered-power-of-2) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2846-robot-collisions](https://github.com/Vaibhav0810/leethub/tree/master/2846-robot-collisions) |
@@ -364,4 +366,16 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
