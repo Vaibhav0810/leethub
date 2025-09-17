@@ -12,47 +12,27 @@
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
-        
-        //  generally used in segments trees
-        // its gonna send integer ovrflow error in one test case
-        // soo (long long)curr*2+1 is done
-        
-        //it can happen in trees like this
-            //     0            
-            //    /
-            //   1
-            //  /
-            // 2
-        
-        if(!root) return 0;
-        
-        queue<pair<TreeNode*,int>>q;
+        if(root==NULL) return 0;
+        queue<pair<TreeNode*,long long>>q;
         q.push({root,0});
-        int ans=0;
-        while(!q.empty())
-        {
-            int size=q.size();
-            int mn=q.front().second;
-            int first,last;
-            
-            for(int i=0;i<size;i++)
-            {
-                int curr=q.front().second-mn;
-                TreeNode* node=q.front().first;
+        long long ans=0;
+        while(!q.empty()){
+            int n=q.size();
+            long long startIndex=q.front().second;
+            long long backIndex = q.back().second;
+            ans= max(ans,backIndex-startIndex+1);
+            while(n--){
+                auto top=q.front();
                 q.pop();
-                if(i==0) first=curr;
-                if(i==size-1) last=curr;
-                if(node->left)
-                    q.push({node->left,(long long)curr*2+1});
-                if(node->right)
-                    q.push({node->right,(long long)curr*2+2});
+                long long idx = top.second-startIndex;   // to prevent signed integer overflow
+                if(top.first->left){
+                    q.push({top.first->left,2*idx+1});
+                }
+                if(top.first->right){
+                    q.push({top.first->right,2*idx+2});
+                }
             }
-            ans=max(ans,last-first+1);
-            
         }
         return ans;
-        
-    
-        
     }
 };
