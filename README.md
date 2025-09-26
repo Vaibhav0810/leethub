@@ -61,6 +61,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vaibhav0810/leethub/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Vaibhav0810/leethub/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
@@ -231,6 +232,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vaibhav0810/leethub/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -300,6 +302,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vaibhav0810/leethub/tree/master/0005-longest-palindromic-substring) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vaibhav0810/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vaibhav0810/leethub/tree/master/1986-largest-color-value-in-a-directed-graph) |
