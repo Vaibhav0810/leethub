@@ -8,6 +8,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vaibhav0810/leethub/tree/master/0037-sudoku-solver) |
 | [0198-house-robber](https://github.com/Vaibhav0810/leethub/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Vaibhav0810/leethub/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
@@ -312,6 +313,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav0810/leethub/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Vaibhav0810/leethub/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Vaibhav0810/leethub/tree/master/0213-house-robber-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vaibhav0810/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vaibhav0810/leethub/tree/master/1986-largest-color-value-in-a-directed-graph) |
