@@ -35,6 +35,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vaibhav0810/leethub/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vaibhav0810/leethub/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vaibhav0810/leethub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vaibhav0810/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/Vaibhav0810/leethub/tree/master/2529-range-product-queries-of-powers) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,6 +285,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1552-build-an-array-with-stack-operations](https://github.com/Vaibhav0810/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav0810/leethub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2846-robot-collisions](https://github.com/Vaibhav0810/leethub/tree/master/2846-robot-collisions) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Design
 |  |
 | ------- |
