@@ -144,6 +144,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/Vaibhav0810/leethub/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Vaibhav0810/leethub/tree/master/0922-possible-bipartition) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -361,6 +362,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Memoization
@@ -392,6 +394,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
