@@ -121,6 +121,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0922-possible-bipartition](https://github.com/Vaibhav0810/leethub/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vaibhav0810/leethub/tree/master/2121-find-if-path-exists-in-graph) |
@@ -371,6 +372,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0832-binary-tree-pruning](https://github.com/Vaibhav0810/leethub/tree/master/0832-binary-tree-pruning) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Memoization
 |  |
@@ -405,6 +407,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0832-binary-tree-pruning](https://github.com/Vaibhav0810/leethub/tree/master/0832-binary-tree-pruning) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Linked List
 |  |
 | ------- |
