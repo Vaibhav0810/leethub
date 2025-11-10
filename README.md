@@ -37,6 +37,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vaibhav0810/leethub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vaibhav0810/leethub/tree/master/3748-sort-matrix-by-diagonals) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vaibhav0810/leethub/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav0810/leethub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vaibhav0810/leethub/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav0810/leethub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2846-robot-collisions](https://github.com/Vaibhav0810/leethub/tree/master/2846-robot-collisions) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -278,6 +281,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vaibhav0810/leethub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -303,6 +307,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Data Stream
 |  |
 | ------- |
