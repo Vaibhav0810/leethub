@@ -50,6 +50,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vaibhav0810/leethub/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vaibhav0810/leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav0810/leethub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vaibhav0810/leethub/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -131,6 +132,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vaibhav0810/leethub/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Vaibhav0810/leethub/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Vaibhav0810/leethub/tree/master/2439-longest-cycle-in-a-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vaibhav0810/leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Vaibhav0810/leethub/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -161,6 +163,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vaibhav0810/leethub/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Vaibhav0810/leethub/tree/master/2439-longest-cycle-in-a-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vaibhav0810/leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Vaibhav0810/leethub/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
@@ -379,6 +382,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vaibhav0810/leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Memoization
 |  |
 | ------- |
@@ -413,6 +417,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vaibhav0810/leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Linked List
 |  |
 | ------- |
