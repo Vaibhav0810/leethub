@@ -164,6 +164,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaibhav0810/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Vaibhav0810/leethub/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vaibhav0810/leethub/tree/master/2121-find-if-path-exists-in-graph) |
@@ -393,6 +394,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vaibhav0810/leethub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Vaibhav0810/leethub/tree/master/1731-even-odd-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vaibhav0810/leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Memoization
 |  |
@@ -431,6 +433,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Vaibhav0810/leethub/tree/master/1731-even-odd-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vaibhav0810/leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Linked List
 |  |
