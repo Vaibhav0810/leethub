@@ -35,6 +35,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vaibhav0810/leethub/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vaibhav0810/leethub/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vaibhav0810/leethub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vaibhav0810/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vaibhav0810/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -332,6 +333,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vaibhav0810/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/Vaibhav0810/leethub/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vaibhav0810/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vaibhav0810/leethub/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -416,6 +418,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Vaibhav0810/leethub/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vaibhav0810/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
@@ -447,4 +450,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vaibhav0810/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
