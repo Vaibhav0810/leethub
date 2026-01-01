@@ -19,6 +19,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/Vaibhav0810/leethub/tree/master/1325-path-with-maximum-probability) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vaibhav0810/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Vaibhav0810/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
@@ -281,6 +282,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1197-parsing-a-boolean-expression](https://github.com/Vaibhav0810/leethub/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaibhav0810/leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Vaibhav0810/leethub/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vaibhav0810/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Vaibhav0810/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vaibhav0810/leethub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav0810/leethub/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -323,6 +325,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vaibhav0810/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Data Stream
 |  |
