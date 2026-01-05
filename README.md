@@ -12,6 +12,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
+| [0654-maximum-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/Vaibhav0810/leethub/tree/master/0794-swim-in-rising-water) |
 | [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
@@ -276,6 +277,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/Vaibhav0810/leethub/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Vaibhav0810/leethub/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
+| [0654-maximum-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0654-maximum-binary-tree) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -323,6 +325,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/Vaibhav0810/leethub/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Vaibhav0810/leethub/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
+| [0654-maximum-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0654-maximum-binary-tree) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vaibhav0810/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -395,6 +398,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vaibhav0810/leethub/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/Vaibhav0810/leethub/tree/master/0623-add-one-row-to-tree) |
+| [0654-maximum-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Vaibhav0810/leethub/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -436,6 +440,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vaibhav0810/leethub/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/Vaibhav0810/leethub/tree/master/0623-add-one-row-to-tree) |
+| [0654-maximum-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Vaibhav0810/leethub/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -453,6 +458,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
+| [0654-maximum-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0654-maximum-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
