@@ -17,6 +17,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/Vaibhav0810/leethub/tree/master/0794-swim-in-rising-water) |
 | [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/Vaibhav0810/leethub/tree/master/0962-maximum-width-ramp) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/Vaibhav0810/leethub/tree/master/1325-path-with-maximum-probability) |
@@ -269,6 +270,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav0810/leethub/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
+| [0962-maximum-width-ramp](https://github.com/Vaibhav0810/leethub/tree/master/0962-maximum-width-ramp) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
@@ -283,6 +285,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/Vaibhav0810/leethub/tree/master/0962-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vaibhav0810/leethub/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaibhav0810/leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Vaibhav0810/leethub/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -330,6 +333,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0654-maximum-binary-tree) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/Vaibhav0810/leethub/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vaibhav0810/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Data Stream
