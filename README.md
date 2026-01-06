@@ -85,6 +85,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vaibhav0810/leethub/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhav0810/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vaibhav0810/leethub/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaibhav0810/leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Vaibhav0810/leethub/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -286,6 +287,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/Vaibhav0810/leethub/tree/master/0962-maximum-width-ramp) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhav0810/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vaibhav0810/leethub/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaibhav0810/leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Vaibhav0810/leethub/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -302,6 +304,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/Vaibhav0810/leethub/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Vaibhav0810/leethub/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhav0810/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vaibhav0810/leethub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -334,6 +337,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vaibhav0810/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/Vaibhav0810/leethub/tree/master/0962-maximum-width-ramp) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhav0810/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vaibhav0810/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Data Stream
