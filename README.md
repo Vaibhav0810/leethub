@@ -7,6 +7,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vaibhav0810/leethub/tree/master/0037-sudoku-solver) |
+| [0189-rotate-array](https://github.com/Vaibhav0810/leethub/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vaibhav0810/leethub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaibhav0810/leethub/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
@@ -276,6 +277,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav0810/leethub/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Vaibhav0810/leethub/tree/master/0189-rotate-array) |
 | [0962-maximum-width-ramp](https://github.com/Vaibhav0810/leethub/tree/master/0962-maximum-width-ramp) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -352,6 +354,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Vaibhav0810/leethub/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Vaibhav0810/leethub/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/Vaibhav0810/leethub/tree/master/0900-reordered-power-of-2) |
