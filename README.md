@@ -20,6 +20,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0962-maximum-width-ramp](https://github.com/Vaibhav0810/leethub/tree/master/0962-maximum-width-ramp) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaibhav0810/leethub/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vaibhav0810/leethub/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1325-path-with-maximum-probability](https://github.com/Vaibhav0810/leethub/tree/master/1325-path-with-maximum-probability) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vaibhav0810/leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Vaibhav0810/leethub/tree/master/1552-build-an-array-with-stack-operations) |
@@ -100,12 +101,14 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/Vaibhav0810/leethub/tree/master/0794-swim-in-rising-water) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vaibhav0810/leethub/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vaibhav0810/leethub/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/Vaibhav0810/leethub/tree/master/2529-range-product-queries-of-powers) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -258,6 +261,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Vaibhav0810/leethub/tree/master/0037-sudoku-solver) |
 | [0794-swim-in-rising-water](https://github.com/Vaibhav0810/leethub/tree/master/0794-swim-in-rising-water) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaibhav0810/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vaibhav0810/leethub/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vaibhav0810/leethub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
