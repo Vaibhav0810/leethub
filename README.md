@@ -43,6 +43,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vaibhav0810/leethub/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vaibhav0810/leethub/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vaibhav0810/leethub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vaibhav0810/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vaibhav0810/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vaibhav0810/leethub/tree/master/3748-sort-matrix-by-diagonals) |
@@ -63,6 +64,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vaibhav0810/leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav0810/leethub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vaibhav0810/leethub/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vaibhav0810/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
@@ -252,6 +254,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1325-path-with-maximum-probability](https://github.com/Vaibhav0810/leethub/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vaibhav0810/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -331,6 +334,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1552-build-an-array-with-stack-operations](https://github.com/Vaibhav0810/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav0810/leethub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2846-robot-collisions](https://github.com/Vaibhav0810/leethub/tree/master/2846-robot-collisions) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vaibhav0810/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Design
 |  |
@@ -383,6 +387,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vaibhav0810/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -479,6 +484,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vaibhav0810/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -492,4 +498,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vaibhav0810/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vaibhav0810/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
