@@ -30,6 +30,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1706-min-cost-to-connect-all-points](https://github.com/Vaibhav0810/leethub/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vaibhav0810/leethub/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhav0810/leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
@@ -287,6 +288,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0189-rotate-array](https://github.com/Vaibhav0810/leethub/tree/master/0189-rotate-array) |
 | [0962-maximum-width-ramp](https://github.com/Vaibhav0810/leethub/tree/master/0962-maximum-width-ramp) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhav0810/leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
@@ -321,6 +323,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhav0810/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhav0810/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vaibhav0810/leethub/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhav0810/leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhav0810/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaibhav0810/leethub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -397,6 +400,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/Vaibhav0810/leethub/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhav0810/leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2846-robot-collisions](https://github.com/Vaibhav0810/leethub/tree/master/2846-robot-collisions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vaibhav0810/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
