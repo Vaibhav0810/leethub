@@ -13,6 +13,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0198-house-robber](https://github.com/Vaibhav0810/leethub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaibhav0810/leethub/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vaibhav0810/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0654-maximum-binary-tree) |
@@ -57,6 +58,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Vaibhav0810/leethub/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Vaibhav0810/leethub/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vaibhav0810/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/Vaibhav0810/leethub/tree/master/0433-minimum-genetic-mutation) |
 | [0869-similar-string-groups](https://github.com/Vaibhav0810/leethub/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -347,6 +349,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhav0810/leethub/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vaibhav0810/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/Vaibhav0810/leethub/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -371,6 +374,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0189-rotate-array](https://github.com/Vaibhav0810/leethub/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Vaibhav0810/leethub/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vaibhav0810/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/Vaibhav0810/leethub/tree/master/0900-reordered-power-of-2) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vaibhav0810/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -511,4 +515,8 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vaibhav0810/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vaibhav0810/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
