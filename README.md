@@ -32,6 +32,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhav0810/leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vaibhav0810/leethub/tree/master/1917-maximum-average-pass-ratio) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vaibhav0810/leethub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaibhav0810/leethub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Vaibhav0810/leethub/tree/master/2206-detonate-the-maximum-bombs) |
 | [2211-k-radius-subarray-averages](https://github.com/Vaibhav0810/leethub/tree/master/2211-k-radius-subarray-averages) |
@@ -75,6 +76,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaibhav0810/leethub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vaibhav0810/leethub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/Vaibhav0810/leethub/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhav0810/leethub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav0810/leethub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -401,6 +403,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav0810/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Vaibhav0810/leethub/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhav0810/leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vaibhav0810/leethub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2846-robot-collisions](https://github.com/Vaibhav0810/leethub/tree/master/2846-robot-collisions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vaibhav0810/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
