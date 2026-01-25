@@ -55,6 +55,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vaibhav0810/leethub/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Vaibhav0810/leethub/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Vaibhav0810/leethub/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
@@ -87,6 +88,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav0810/leethub/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Vaibhav0810/leethub/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Vaibhav0810/leethub/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
@@ -371,6 +373,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vaibhav0810/leethub/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Vaibhav0810/leethub/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Vaibhav0810/leethub/tree/master/0326-power-of-three) |
