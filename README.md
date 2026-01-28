@@ -90,6 +90,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav0810/leethub/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Vaibhav0810/leethub/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Vaibhav0810/leethub/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Vaibhav0810/leethub/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Vaibhav0810/leethub/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
