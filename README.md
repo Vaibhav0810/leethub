@@ -132,6 +132,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vaibhav0810/leethub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
@@ -168,6 +169,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vaibhav0810/leethub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0207-course-schedule](https://github.com/Vaibhav0810/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vaibhav0810/leethub/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
@@ -444,6 +446,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vaibhav0810/leethub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vaibhav0810/leethub/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/Vaibhav0810/leethub/tree/master/0623-add-one-row-to-tree) |
@@ -487,6 +490,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vaibhav0810/leethub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav0810/leethub/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vaibhav0810/leethub/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/Vaibhav0810/leethub/tree/master/0623-add-one-row-to-tree) |
@@ -504,6 +508,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vaibhav0810/leethub/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/Vaibhav0810/leethub/tree/master/0148-sort-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vaibhav0810/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
