@@ -15,6 +15,7 @@ Collection of LeetCode/GFG questions done by me to ace the coding interview!
 | [0198-house-robber](https://github.com/Vaibhav0810/leethub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaibhav0810/leethub/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav0810/leethub/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Vaibhav0810/leethub/tree/master/0228-summary-ranges) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vaibhav0810/leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Vaibhav0810/leethub/tree/master/0399-evaluate-division) |
 | [0456-132-pattern](https://github.com/Vaibhav0810/leethub/tree/master/0456-132-pattern) |
